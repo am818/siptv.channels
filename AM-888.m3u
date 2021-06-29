@@ -1,0 +1,214 @@
+#EXTM3U
+#EXTINF:24,1 TV (1080p)
+http://amtv1.livestreamingcdn.com/am2abr/index.m3u8
+#EXTINF:60,21TV (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s10/index.m3u8
+#EXTINF:60,5TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s6/04.m3u8
+#EXTINF:0,Ararat TV (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s6/index.m3u8
+#EXTINF:0,Armenia 2 (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s22/index.m3u8
+#EXTINF:0,Armenia 3 (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s42/index.m3u8
+#EXTINF:0,Armenia 4 (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s32/index.m3u8
+#EXTINF:0,Armenia 5 (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s46/index.m3u8
+#EXTINF:0,Armenia 6 (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s66/index.m3u8
+#EXTINF:0,Armenia Premium (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s83/index.m3u8
+#EXTINF:0,Armenia TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s4/index.m3u8
+#EXTINF:0,ArmNews (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s11/index.m3u8
+#EXTINF:0,ATV (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s8/index.m3u8
+#EXTINF:0,ATV Bazmoc (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s74/index.m3u8
+#EXTINF:60,ATV Filmzone (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s48/index.m3u8
+#EXTINF:0,ATV Hay (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s73/index.m3u8
+#EXTINF:60,ATV Kinoman (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s94/index.m3u8
+#EXTINF:60,ATV Tava (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s53/index.m3u8
+#EXTINF:0,ATV Xaxaliq TV
+http://212.42.193.122:8888/play/a008/index.m3u8
+#EXTINF:0,ATV 
+http://212.42.193.122:8888/play/a00b/index.m3u8
+#EXTINF:0,H2 (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s2/index.m3u8
+#EXTINF:0,H3 TV (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s12/index.m3u8
+#EXTINF:0,Horizon Armenian
+http://5.254.76.34:17070/C441/index.m3u8?token=kdsdkwy453wrRq29IIIo
+#EXTINF:0,Kentron TV (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s5/index.m3u8
+#EXTINF:0,MTV Hits Europe (576p)
+http://188.40.68.167/russia/mtv_hits/playlist.m3u8
+#EXTINF:0,Public TV of Armenia
+http://serv24.vintera.tv:8081/test/h1_arm/index.m3u8
+#EXTINF:0,Radio Van 103.0 FM (Yerevan) (720p)
+http://stream.radiovan.fm/stream/index.m3u8
+#EXTINF:0,Shant Premium
+http://212.42.193.122:8888/play/a00g/index.m3u8
+#EXTINF:0,AZATUTYUN (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s3/index.m3u8
+#EXTINF:0,Shoghakat (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s13/index.m3u8
+#EXTINF:0,Song TV Armenia
+http://212.42.193.122:8888/play/a00d/index.m3u8
+#EXTINF:0,TBN Armenia (1080p)
+https://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/master.m3u8
+#EXTINF:0,Yerkir Media (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s7/index.m3u8
+#EXTINF:0, Первый канал
+http://31.128.159.41:8080/perviykanal/tracks-v1a1/mono.m3u8
+#EXTINF:0, НТВ
+http://31.128.159.41:8080/ntv/tracks-v1a1/mono.m3u8
+#EXTINF:0, Россия-1
+http://31.128.159.41:8080/rossia1/tracks-v1a1/mono.m3u8
+#EXTINF:0, ТВ Центр
+http://188.113.190.12/10/tracks-v1a1/index.m3u8
+#EXTINF:0, Пятый канал
+http://46.254.241.94:455/test
+#EXTINF:0, ТНТ
+http://31.128.159.41:8080/tnt/mpegts
+#EXTINF:0, ТНТ
+http://37.99.5.235/btv/SWM/TNT/TNT_576p_2000kbps.m3u8
+#EXTINF:0, ТНТ4
+https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
+#EXTINF:0, TV3
+http://31.128.159.41:8080/tv3/mpegts
+#EXTINF:0, СТС 
+http://31.128.159.41:8080/sts/tracks-v1a1/mono.m3u8
+#EXTINF:0, KVN
+http://185.18.207.154:8080/kvn/tracks-v1a1/index.m3u8
+#EXTINF:0, Пятница
+http://188.113.190.12/9/tracks-v1a1/index.m3u8
+#EXTINF:0, Суббота
+https://bl.uma.media/live/317845/HLS/4614144_3/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+#EXTINF:0, Звезда
+http://80.245.117.66:11375/17/index.m3u8
+#EXTINF:0, D
+http://31.128.159.41:8080/domashniy/tracks-v1a1/mono.m3u8
+#EXTINF:0, Матч ТВ
+http://188.113.190.12/6/tracks-v1a1/index.m3u8
+#EXTINF:0, Premiere HD
+http://195.154.242.229:3000/telegram/premiere_group/19550
+#EXTINF:0, Premium HD
+http://195.154.242.229:3000/telegram/premiere_group/19547
+#EXTINF:0, Victory HD
+http://195.154.242.229:3000/telegram/premiere_group/65234
+#EXTINF:0, Thriller HD
+http://195.154.242.229:3000/telegram/premiere_group/19677
+#EXTINF:0, Paradox HD
+http://195.154.242.229:3000/telegram/premiere_group/47349
+#EXTINF:0, Paradise HD
+http://195.154.242.229:3000/telegram/premiere_group/19551
+#EXTINF:0, USSR
+http://195.154.242.229:3000/telegram/premiere_group/47342
+#EXTINF:0, FILM VHS
+https://autopilot.catcast.tv/content/38792/index.m3u8?password=234566
+#EXTINF:0, Thriller HD
+http://195.154.242.229:3000/telegram/premiere_group/19677
+#EXTINF:0, TV 1000
+http://185.74.7.220:8080/TV1000/tracks-v1a1/mono.m3u8
+#EXTINF:0, TV1000 HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
+#EXTINF:0, TV1000 Action HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
+#EXTINF:0, TV1000 Comedy HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
+#EXTINF:0, TV1000 Premium HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
+#EXTINF:0, TV1000 Megahit HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
+#EXTINF:0, 10800 - Cinema
+http://87.247.44.26/btv/SWM/CINEMA/CINEMA_576p_2000kbps.m3u8
+#EXTINF:0, Discovery Channel
+http://80.76.245.198:12284/33
+#EXTINF:0, Discovery Channel HD
+http://188.247.191.234/btv/SWM/discovery_hd/discovery_hd_720p_3500kbps.m3u8
+#EXTINF:0, Discovery Science
+http://185.74.4.46:8080/stch_temp10/mpegts
+#EXTINF:0, Animal Planet
+http://176.222.187.154:80/btv/SWM/TV1000Action/TV1000Action_576p_2000kbps.m3u8
+#EXTINF:0, Animal Planet HD
+http://46.34.209.244:80/btv/SWM/animal_hd/animal_hd_1080p_5000kbps.m3u8
+#EXTINF:0, Nat Geo Wild HD
+http://87.247.44.26/btv/SWM/NatGeo_Wild/NatGeo_Wild_1080p_5000kbps.m3u8
+#EXTINF:0, National Geographic HD
+http://87.247.44.26/btv/SWM/NatGeo_channel/NatGeo_channel_1080p_5000kbps.m3u8
+#EXTINF:0, History HD
+http://176.222.190.76:80/btv/SWM/HistoryHD/HistoryHD_1080p_5000kbps.m3u8
+#EXTINF:0, AMEDIA Hit HD
+http://edge04.beetv.kz:80/btv/SWM/AmediaHitHD/AmediaHitHD_720p_3500kbps.m3u8
+#EXTINF:0, AMEDIA Premium HD
+http://edge04.beetv.kz:80/btv/SWM/Amedia_PremiumHD/Amedia_PremiumHD_720p_3500kbps.m3u8
+#EXTINF:0, FOX HD
+http://176.222.187.146:80/btv/SWM/FOX/FOX_720p_3500kbps.m3u8
+#EXTINF:0, FOX Life HD
+http://176.222.164.72/btv/SWM/FoxLife/FoxLife_720p_3500kbps.m3u8
+#EXTINF:0, Boomerang
+http://37.99.5.235/btv/SWM/Boomerang/Boomerang_576p_2000kbps.m3u8
+#EXTINF:0, Sport TV 1 HD
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:0, Eurosport 1
+http://46.34.209.243:80/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8
+#EXTINF:0, M-1 Global HD
+http://176.222.164.73/btv/SWM/M1/M1_1080p_5000kbps.m3u8
+#EXTINF:0, Sky Sport 1
+http://stream.tvtap.live:8081/live/de-sky1.stream/chunks.m3u8
+#EXTINF:0, TA HD UA
+http://live-1.otcnet.ru/tadtmf/tracks-v1a1/mono.m3u8?bw983666988618&utcstart=1601737200&version=2
+#EXTINF:0, Euronews
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:0, FOOTBALL 1
+https://95-213-224-186.livesports24.online/uafootballua1.m3u8?985500482927a
+#EXTINF:0, FOOTBALL 2
+https://95-213-224-186.livesports24.online/fooootball2.m3u8
+#EXTINF:0, FOOTBALL 3
+https://95-213-224-186.livesports24.online/football3ua.m3u8?985500482927a
+#EXTINF:28,California Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
+#EXTINF:28,California Music Channel TV
+http://cmctv.ios.internapcdn.net:80/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream0.m3u8
+#EXTINF:30,Deejay TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+#EXTINF:53,DJing
+https://www.djing.com/tv/28049-04.m3u8
+#EXTINF:16,RETRO TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:3600,RU.TV
+https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
+#EXTINF:24,VIVA RUS 2
+http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
+#EXTINF:120,http://live.m2.tv/hls3/stream.m3u8
+
