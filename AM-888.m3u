@@ -1,253 +1,252 @@
 #EXTM3U
-#EXTINF:-1,Բազմոց tv (Armenia)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/289/index.m3u8
-#EXTINF:-1,Ազատություն TV (Armenia)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/274/index.m3u8
-#EXTINF:-1,ATV (Armenia)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/609/index.m3u8
-#EXTINF:-1,Առաջին Ալիք (Armenia)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/601/index.m3u8
-#EXTINF:-1,ԽԱՂԱԼԻՔ (Armenia)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/276/index.m3u8
-#EXTINF:-1,Արմնյուզ (Armenia)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/611/index.m3u8
-#EXTINF:-1,Հ2 (Armenia)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/603/index.m3u8
-#EXTINF:-1,Հինգերորդ ալիք (Armenia)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/620/index.m3u8
-#EXTINF:-1,ՀԱՅ TV (Armenia)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/280/index.m3u8
-#EXTINF:-1,Armenia Premium (Armenia)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/273/index.m3u8
-#EXTINF:-1,Երկիր մեդիա (Armenia)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/608/index.m3u8
-#EXTINF:-1,ԿԻՆՈՄԱՆ (Armenia)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/282/index.m3u8
-#EXTINF:-1,ՖՒԼՄԶՈՆ (Armenia)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/275/index.m3u8
-#EXTINF:-1,սինեման (Armenia)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/283/index.m3u8
-#EXTINF:-1,հայ կինո (Armenia)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/286/index.m3u8
-#EXTINF:-1,Ար (Armenia)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/610/index.m3u8
-#EXTINF:-1,նոր ՀԱՅԱՍՏԱՆ (Armenia)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/612/index.m3u8
-#EXTINF:-1,քոմեդի (Armenia)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/277/index.m3u8
-#EXTINF:-1,Շողակաթ (Armenia)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/613/index.m3u8
-#EXTINF:-1,տունտունիկ (Armenia)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/279/index.m3u8
-#EXTINF:-1,ֆիտնես (Armenia)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/287/index.m3u8
-#EXTINF:-1,SONGTV (Armenia)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/300/index.m3u8
-#EXTINF:-1,մուզզոն (Armenia)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/288/index.m3u8
-#EXTINF:-1,ջան tv (Armenia)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/285/index.m3u8
-#EXTINF:-1,Դար 21 (Armenia)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/602/index.m3u8
-#EXTINF:-1,ԹԱՎԱ TV (Armenia)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/281/index.m3u8
-#EXTINF:-1,Հինգերորդ ալիք FHD (Armenia)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/7205/index.m3u8
-#EXTINF:-1,Ար FHD (Armenia)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/7206/index.m3u8
-#EXTINF:-1,Արմենիա Tv FHD (Armenia)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/7207/index.m3u8
-#EXTINF:-1,Առաջին Ալիք FHD (Armenia)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/armenia1.jpg",Առաջին Ալիք FHD (Armenia)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/7208/index.m3u8
-#EXTINF:-1,Հ2 FHD (Armenia)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/armenia1.jpg",Առաջին Ալիք (Armenia)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/601/index.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJgxI_LNHaYj-LNUJsHQU5e1OwU-_Ng9evBcQLMLgi5NGsJR5Q_Oi1K6qQHC1hMGKbFZM&usqp=CAU",Հ2 FHD (Armenia)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/7209/index.m3u8
-#EXTINF:-1,Արմնյուզ FHD (Armenia)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/7210/index.m3u8
-#EXTINF:-1,ArmNews 24 FHD (Armenia)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/7211/index.m3u8
-#EXTINF:-1,ATV FHD (Armenia)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/7212/index.m3u8
-#EXTINF:-1,Կենտրոն FHD (Armenia)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJgxI_LNHaYj-LNUJsHQU5e1OwU-_Ng9evBcQLMLgi5NGsJR5Q_Oi1K6qQHC1hMGKbFZM&usqp=CAU",Հ2 (Armenia)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/603/index.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/armenia_tv.jpg",Արմենիա Tv FHD (Armenia)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/7207/index.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/armenia_tv.jpg",Armenia Premium (Armenia)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/273/index.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kentron_tv.jpg",Կենտրոն FHD (Armenia)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/7213/index.m3u8
-#EXTINF:-1,նոր ՀԱՅԱՍՏԱՆ FHD (Armenia)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Ար (Armenia)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/610/index.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",նոր ՀԱՅԱՍՏԱՆ FHD (Armenia)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/7214/index.m3u8
-#EXTINF:-1,Երկիր մեդիա FHD (Armenia)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ATV FHD (Armenia)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/7212/index.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ATV (Armenia)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/609/index.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/yerkir_media_tv.jpg",Երկիր մեդիա FHD (Armenia)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/7216/index.m3u8
-#EXTINF:-1,Shant Premium FHD (Armenia)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/yerkir_media_tv.jpg",Երկիր մեդիա (Armenia)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/608/index.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="data:image/webp;base64,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",Հինգերորդ ալիք FHD (Armenia)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/7205/index.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="data:image/webp;base64,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",Հինգերորդ ալիք (Armenia)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/620/index.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ՀԱՅ TV (Armenia)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/280/index.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",նոր ՀԱՅԱՍՏԱՆ (Armenia)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/612/index.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Ազատություն TV (Armenia)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/274/index.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Ար FHD (Armenia)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/7206/index.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ArmNews 24 FHD (Armenia)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/7211/index.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Արմնյուզ FHD (Armenia)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/7210/index.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Արմնյուզ (Armenia)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/611/index.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Շողակաթ (Armenia)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/613/index.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ԿԻՆՈՄԱՆ (Armenia)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/282/index.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ՖՒԼՄԶՈՆ (Armenia)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/275/index.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",սինեման (Armenia)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/283/index.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",հայ կինո (Armenia)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/286/index.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",քոմեդի (Armenia)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/277/index.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",տունտունիկ (Armenia)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/279/index.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ֆիտնես (Armenia)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/287/index.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SONGTV (Armenia)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/300/index.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",մուզզոն (Armenia)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/288/index.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Դար 21 (Armenia)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/602/index.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ջան tv (Armenia)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/285/index.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ԹԱՎԱ TV (Armenia)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/281/index.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/shant_tv.jpg",Shant Premium FHD (Armenia)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/7220/index.m3u8
-#EXTINF:-1,SHANT Music FHD (Armenia)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/shant_tv.jpg",SHANT Music FHD (Armenia)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/7218/index.m3u8
-#EXTINF:-1,Shant Kids FHD (Armenia)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/7219/index.m3u8
-#EXTINF:0, Первый канал
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ԽԱՂԱԼԻՔ (Armenia)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/276/index.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Բազմոց tv (Armenia)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/289/index.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Первый канал
 http://31.128.159.41:8080/perviykanal/tracks-v1a1/mono.m3u8
-#EXTINF:0, НТВ
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",НТВ
 http://31.128.159.41:8080/ntv/tracks-v1a1/mono.m3u8
-#EXTINF:0, Россия-1
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Россия-1
 http://31.128.159.41:8080/rossia1/tracks-v1a1/mono.m3u8
-#EXTINF:0, ТВ Центр
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ТВ Центр
 http://188.113.190.12/10/tracks-v1a1/index.m3u8
-#EXTINF:0, Пятый канал
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Пятый канал
 http://46.254.241.94:455/test
-#EXTINF:0, ТНТ
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ТНТ
 http://31.128.159.41:8080/tnt/mpegts
-#EXTINF:0, ТНТ
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ТНТ
 http://37.99.5.235/btv/SWM/TNT/TNT_576p_2000kbps.m3u8
-#EXTINF:0, ТНТ4
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ТНТ4
 https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
-#EXTINF:0, TV3
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TV3
 http://31.128.159.41:8080/tv3/mpegts
-#EXTINF:0, СТС 
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",СТС
 http://31.128.159.41:8080/sts/tracks-v1a1/mono.m3u8
-#EXTINF:0, KVN
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",KVN
 http://185.18.207.154:8080/kvn/tracks-v1a1/index.m3u8
-#EXTINF:0, Пятница
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Пятница
 http://188.113.190.12/9/tracks-v1a1/index.m3u8
-#EXTINF:0, Суббота
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Суббота
 https://bl.uma.media/live/317845/HLS/4614144_3/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
-#EXTINF:0, Звезда
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Звезда
 http://80.245.117.66:11375/17/index.m3u8
-#EXTINF:0, D
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",D
 http://31.128.159.41:8080/domashniy/tracks-v1a1/mono.m3u8
-#EXTINF:0, Матч ТВ
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Матч ТВ
 http://188.113.190.12/6/tracks-v1a1/index.m3u8
-#EXTINF:0, Premiere HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Premiere HD
 http://195.154.242.229:3000/telegram/premiere_group/19550
-#EXTINF:0, Premium HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Premium HD
 http://195.154.242.229:3000/telegram/premiere_group/19547
-#EXTINF:0, Victory HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Victory HD
 http://195.154.242.229:3000/telegram/premiere_group/65234
-#EXTINF:0, Thriller HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Thriller HD
 http://195.154.242.229:3000/telegram/premiere_group/19677
-#EXTINF:0, Paradox HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Paradox HD
 http://195.154.242.229:3000/telegram/premiere_group/47349
-#EXTINF:0, Paradise HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Paradise HD
 http://195.154.242.229:3000/telegram/premiere_group/19551
-#EXTINF:0, USSR
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",USSR
 http://195.154.242.229:3000/telegram/premiere_group/47342
-#EXTINF:0, FILM VHS
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",FILM VHS
 https://autopilot.catcast.tv/content/38792/index.m3u8?password=234566
-#EXTINF:0, Thriller HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Thriller HD
 http://195.154.242.229:3000/telegram/premiere_group/19677
-#EXTINF:0, TV 1000
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TV 1000
 http://185.74.7.220:8080/TV1000/tracks-v1a1/mono.m3u8
-#EXTINF:0, TV1000 HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TV1000 HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
-#EXTINF:0, TV1000 Action HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TV1000 Action HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
-#EXTINF:0, TV1000 Comedy HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TV1000 Comedy HD
 https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
-#EXTINF:0, TV1000 Premium HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TV1000 Premium HD
 https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
-#EXTINF:0, TV1000 Megahit HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TV1000 Megahit HD
 https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
-#EXTINF:0, 10800 - Cinema
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",10800 - Cinema
 http://87.247.44.26/btv/SWM/CINEMA/CINEMA_576p_2000kbps.m3u8
-#EXTINF:0, Discovery Channel
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Discovery Channel
 http://80.76.245.198:12284/33
-#EXTINF:0, Discovery Channel HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Discovery Channel HD
 http://188.247.191.234/btv/SWM/discovery_hd/discovery_hd_720p_3500kbps.m3u8
-#EXTINF:0, Discovery Science
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Discovery Science
 http://185.74.4.46:8080/stch_temp10/mpegts
-#EXTINF:0, Animal Planet
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Animal Planet
 http://176.222.187.154:80/btv/SWM/TV1000Action/TV1000Action_576p_2000kbps.m3u8
-#EXTINF:0, Animal Planet HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Animal Planet HD
 http://46.34.209.244:80/btv/SWM/animal_hd/animal_hd_1080p_5000kbps.m3u8
-#EXTINF:0, Nat Geo Wild HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Nat Geo Wild HD
 http://87.247.44.26/btv/SWM/NatGeo_Wild/NatGeo_Wild_1080p_5000kbps.m3u8
-#EXTINF:0, National Geographic HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",National Geographic HD
 http://87.247.44.26/btv/SWM/NatGeo_channel/NatGeo_channel_1080p_5000kbps.m3u8
-#EXTINF:0, History HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",History HD
 http://176.222.190.76:80/btv/SWM/HistoryHD/HistoryHD_1080p_5000kbps.m3u8
-#EXTINF:0, AMEDIA Hit HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",AMEDIA Hit HD
 http://edge04.beetv.kz:80/btv/SWM/AmediaHitHD/AmediaHitHD_720p_3500kbps.m3u8
-#EXTINF:0, AMEDIA Premium HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",AMEDIA Premium HD
 http://edge04.beetv.kz:80/btv/SWM/Amedia_PremiumHD/Amedia_PremiumHD_720p_3500kbps.m3u8
-#EXTINF:0, FOX HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",FOX HD
 http://176.222.187.146:80/btv/SWM/FOX/FOX_720p_3500kbps.m3u8
-#EXTINF:0, FOX Life HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",FOX Life HD
 http://176.222.164.72/btv/SWM/FoxLife/FoxLife_720p_3500kbps.m3u8
-#EXTINF:0, Boomerang
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Boomerang
 http://37.99.5.235/btv/SWM/Boomerang/Boomerang_576p_2000kbps.m3u8
-#EXTINF:0, Sport TV 1 HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Sport TV 1 HD
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:0, Eurosport 1
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Eurosport 1
 http://46.34.209.243:80/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8
-#EXTINF:0, M-1 Global HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",M-1 Global HD
 http://176.222.164.73/btv/SWM/M1/M1_1080p_5000kbps.m3u8
-#EXTINF:0, Sky Sport 1
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Sky Sport 1
 http://stream.tvtap.live:8081/live/de-sky1.stream/chunks.m3u8
-#EXTINF:0, TA HD UA
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TA HD UA
 http://live-1.otcnet.ru/tadtmf/tracks-v1a1/mono.m3u8?bw983666988618&utcstart=1601737200&version=2
-#EXTINF:0, Euronews
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Euronews
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-#EXTINF:0, FOOTBALL 1
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",FOOTBALL 1
 https://95-213-224-186.livesports24.online/uafootballua1.m3u8?985500482927a
-#EXTINF:0, FOOTBALL 2
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",FOOTBALL 2
 https://95-213-224-186.livesports24.online/fooootball2.m3u8
-#EXTINF:0, FOOTBALL 3
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",FOOTBALL 3
 https://95-213-224-186.livesports24.online/football3ua.m3u8?985500482927a
-#EXTINF:28,California Music Channel
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",California Music Channel
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
-#EXTINF:-1,Music (Music)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Music (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/155/index.m3u8
-#EXTINF:-1,VH1 European (Music)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",VH1 European (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/536/index.m3u8
-#EXTINF:-1,Russian Music Box (Music)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Russian Music Box (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/2048/index.m3u8
-#EXTINF:-1,Жара HD (Music)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Жара HD (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/2129/index.m3u8
-#EXTINF:-1,Clubbing TV HD RU (Music)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Clubbing TV HD RU (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/2395/index.m3u8
-#EXTINF:-1,Club MTV (Music)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Club MTV (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/558/index.m3u8
-#EXTINF:-1,Europa Plus TV (Music)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Europa Plus TV (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/115/index.m3u8
-#EXTINF:-1,Vostok TV (Music)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Vostok TV (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/1054/index.m3u8
-#EXTINF:-1,ТНТ MUSIC (Music)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ТНТ MUSIC (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/710/index.m3u8
-#EXTINF:-1,SONG TV HD RU (Music)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SONG TV HD RU (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/6394/index.m3u8
-#EXTINF:-1,1HD orig (Music)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",1HD orig (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/9001/index.m3u8
-#EXTINF:-1,C-Music HD orig (Music)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",C-Music HD orig (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/9003/index.m3u8
-#EXTINF:-1,Russian Music Box orig (Music)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Russian Music Box orig (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/9168/index.m3u8
-#EXTINF:-1,МУЗ-ТВ orig (Music)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",МУЗ-ТВ orig (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/9169/index.m3u8
-#EXTINF:-1,MTV Live HD orig (Music)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",MTV Live HD orig (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/9009/index.m3u8
-#EXTINF:-1,MTV Hits (Music)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",MTV Hits (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/153/index.m3u8
-#EXTINF:-1,MTV 80s (Music)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",MTV 80s (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/724/index.m3u8
-#EXTINF:-1,MTV 90s (Music)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",MTV 90s (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/1038/index.m3u8
-#EXTINF:-1,MTV Россия HD (Music)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",MTV Россия HD (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/2130/index.m3u8
-#EXTINF:-1,MCM Top Russia orig (Music)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",MCM Top Russia orig (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/9175/index.m3u8
-#EXTINF:-1,Шансон ТВ (Music)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Шансон ТВ (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/859/index.m3u8
-#EXTINF:-1,Ля-минор ТВ orig (Music)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Ля-минор ТВ orig (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/9174/index.m3u8
-#EXTINF:-1,RETRO DANCE 90S (Music)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",RETRO DANCE 90S (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/10064/index.m3u8
-#EXTINF:-1,RU.TV orig (Music)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",RU.TV orig (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/9179/index.m3u8
-#EXTINF:-1,Европа Плюс ТВ orig (Music)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Европа Плюс ТВ orig (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/9257/index.m3u8
-#EXTINF:-1,Mafi2a TV (Music)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Mafi2a TV (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/7223/index.m3u8
-#EXTINF:-1,Ritsa TV (Music)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Ritsa TV (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/7224/index.m3u8
-#EXTINF:-1,Bridge TV HD orig (Music)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Bridge TV HD orig (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/9012/index.m3u8
-#EXTINF:-1,NEW MUSIC (Music)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",NEW MUSIC (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/10062/index.m3u8
-#EXTINF:-1,Music Top HD (Music)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Music Top HD (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/10072/index.m3u8
-#EXTINF:-1,1 Music (Music)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",1 Music (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/10076/index.m3u8
+
