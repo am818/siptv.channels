@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/armenia1.jpg",Առաջին Ալիք FHD (Armenia)
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/armenia1.jpg",Առաջին Ալիք FHD (Armenia)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/7208/index.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/armenia1.jpg",Առաջին Ալիք (Armenia)
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/armenia1.jpg",Առաջին Ալիք (Armenia)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/601/index.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJgxI_LNHaYj-LNUJsHQU5e1OwU-_Ng9evBcQLMLgi5NGsJR5Q_Oi1K6qQHC1hMGKbFZM&usqp=CAU",Հ2 FHD (Armenia)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJgxI_LNHaYj-LNUJsHQU5e1OwU-_Ng9evBcQLMLgi5NGsJR5Q_Oi1K6qQHC1hMGKbFZM&usqp=CAU",Հ2 FHD (Armenia)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/7209/index.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJgxI_LNHaYj-LNUJsHQU5e1OwU-_Ng9evBcQLMLgi5NGsJR5Q_Oi1K6qQHC1hMGKbFZM&usqp=CAU",Հ2 (Armenia)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJgxI_LNHaYj-LNUJsHQU5e1OwU-_Ng9evBcQLMLgi5NGsJR5Q_Oi1K6qQHC1hMGKbFZM&usqp=CAU",Հ2 (Armenia)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/603/index.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/armenia_tv.jpg",Արմենիա Tv FHD (Armenia)
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/armenia_tv.jpg",Արմենիա Tv FHD (Armenia)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/7207/index.m3u8
 #EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/armenia_tv.jpg",Armenia Premium (Armenia)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/273/index.m3u8
