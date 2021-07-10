@@ -131,6 +131,38 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
 #EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",10800 - Cinema
 http://87.247.44.26/btv/SWM/CINEMA/CINEMA_576p_2000kbps.m3u8
+#EXTINF:-1 ,Кино 1
+http://autopilot.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1 ,Кино 2
+http://autopilot.catcast.tv/content/38896/index.m3u8
+#EXTINF:-1 ,Кино 3
+http://autopilot.catcast.tv/content/38792/index.m3u8
+#EXTINF:-1 ,Кино 4
+http://autopilot.catcast.tv/content/38821/index.m3u8
+#EXTINF:-1 ,Кино 5
+http://autopilot.catcast.tv/content/39005/index.m3u8
+#EXTINF:-1 ,Кино 6
+http://autopilot.catcast.tv/content/38801/index.m3u8
+#EXTINF:-1 ,Кино 7
+http://autopilot.catcast.tv/content/39161/index.m3u8
+#EXTINF:-1 ,Кино 1 International
+http://autopilot.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 ,Мужское кино HD
+https://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8
+#EXTINF:-1 ,Кинокомедия HD
+https://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
+#EXTINF:-1 ,Киномикс HD
+https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+#EXTINF:-1 ,Кинопремьера HD
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+#EXTINF:-1 ,Киносвидание HD
+https://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+#EXTINF:-1 ,Киносемья HD
+https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+#EXTINF:-1 ,Кинохит
+https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+#EXTINF:-1 ,Родное кино
+https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
 #EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Discovery Channel
 http://80.76.245.198:12284/33
 #EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Discovery Channel HD
@@ -237,3 +269,5 @@ http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/10062/index.m3u8
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/10072/index.m3u8
 #EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="",1 Music (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/10076/index.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TNT Music (Music)
+http://185.97.150.19:8082/98
