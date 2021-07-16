@@ -131,20 +131,12 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
 #EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",10800 - Cinema
 http://87.247.44.26/btv/SWM/CINEMA/CINEMA_576p_2000kbps.m3u8
-#EXTINF:-1 ,Кино 1
-http://autopilot.catcast.tv/content/37925/index.m3u8
-#EXTINF:-1 ,Кино 2
-http://autopilot.catcast.tv/content/38896/index.m3u8
-#EXTINF:-1 ,Кино 3
-http://autopilot.catcast.tv/content/38792/index.m3u8
-#EXTINF:-1 ,Кино 4
-http://autopilot.catcast.tv/content/38821/index.m3u8
-#EXTINF:-1 ,Кино 5
-http://autopilot.catcast.tv/content/39005/index.m3u8
-#EXTINF:-1 ,Кино 6
-http://autopilot.catcast.tv/content/38801/index.m3u8
-#EXTINF:-1 ,Кино 7
-http://autopilot.catcast.tv/content/39161/index.m3u8
+#EXTINF:-1,Millenium TV HD
+http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8
+#EXTINF:-1,Мосфильм. Золотая коллекция HD
+http://31.128.159.41:8080/mosfilm/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Дом кино Премиум HD
+http://212.76.27.27/btv/SWM/Dom_kino_Prem/Dom_kino_Prem_1080p_5000kbps.m3u8
 #EXTINF:-1 ,Кино 1 International
 http://autopilot.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 ,Мужское кино HD
