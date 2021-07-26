@@ -67,6 +67,12 @@ http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/281/index.m3u8
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/276/index.m3u8
 #EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="https://izitv.tv/modules/homecontent/images/chans/trans/bazmoc.png?v=2",Բազմոց tv (Armenia)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/289/index.m3u8
+#EXTINF:-1,CNN International
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+#EXTINF:-1,NBC News Now
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1920x1080_3660800/chunklist.m3u8
+#EXTINF:-1,BBC World News HD
+http://176.222.164.73/btv/SWM/BBC_World/BBC_World_1080p_5000kbps.m3u8
 #EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="https://www.beeline.am/images/channel/1/15498783737289.png",Первый канал
 http://31.128.159.41:8080/perviykanal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",НТВ
