@@ -82,36 +82,105 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_30
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1920x1080_3660800/chunklist.m3u8
 #EXTINF:-1,BBC World News HD
 http://176.222.164.73/btv/SWM/BBC_World/BBC_World_1080p_5000kbps.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="https://www.beeline.am/images/channel/1/15498783737289.png",Первый канал
-http://31.128.159.41:8080/perviykanal/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",НТВ
-http://31.128.159.41:8080/ntv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Россия-1
-http://31.128.159.41:8080/rossia1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ТВ Центр
-http://188.113.190.12/10/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Пятый канал
-http://46.254.241.94:455/test
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ТНТ
-http://31.128.159.41:8080/tnt/mpegts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ТНТ
-http://37.99.5.235/btv/SWM/TNT/TNT_576p_2000kbps.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ТНТ4
-https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TV3
-http://31.128.159.41:8080/tv3/mpegts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",СТС
-http://31.128.159.41:8080/sts/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",KVN
-http://185.18.207.154:8080/kvn/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Пятница
-http://188.113.190.12/9/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Суббота
-https://bl.uma.media/live/317845/HLS/4614144_3/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Звезда
+#EXTINF:-1  tvg-id="N/A" group-title="Центральные" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/70787/2a0000016002f5285d0523e4cf8dbcbc7b51/orig",Первый канал HD
+http://91.192.168.251:5050
+#EXTINF:-1  tvg-id="N/A" group-title="Центральные" tvg-logo="N/A",Россия 1 HD
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Общие" tvg-logo="https://1tv.kz/wp-content/uploads/2020/01/1TV_02.png",Первый Евразия
+http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Россия геоблок" tvg-logo="http://pl.ottg.tv:80/icon/4898.png",360°
+http://video1.in-news.ru/360/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Россия" tvg-logo="http://epg.it999.ru/img/405.png",Телеканал Звезда
 http://80.245.117.66:11375/17/index.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="https://www.beeline.am/images/channel/1/15498782574468.png",Домашний
-http://31.128.159.41:8080/domashniy/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Россия геоблок" tvg-logo="http://epg.it999.ru/img/2547.png",Россия РТР
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Центральные" tvg-logo="http://epg.it999.ru/img/2001.png",НТВ HD
+http://192.166.144.111:8008/play/a00q/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Центральные" tvg-logo="N/A",НТВ МИР
+http://92.46.127.146:8080/ntv/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Центральные" tvg-logo="http://epg.it999.ru/img/2023.png",Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Центральные" tvg-logo="N/A",Мир 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1  tvg-id="rossija-k" group-title="Россия" tvg-logo="N/A",Россия К
+http://uiptv.do.am/1ufc/000000005/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Россия" tvg-logo="http://epg.it999.ru/img/2039.png",Звезда плюс
+http://45.80.44.93:25001/play/a01i/index.m3u8
+#EXTINF:-1  tvg-id="piatnica" group-title="Россия" tvg-logo="N/A",пятница
+http://46.174.83.66/Pytnica/mpegts
+#EXTINF:-1  tvg-id="super" group-title="Россия" tvg-logo="http://epg.cdntv.online/img/474.png",суббота
+http://46.174.83.66/Subbota/mpegts
+#EXTINF:-1  tvg-id="tv-3" group-title="Россия" tvg-logo="N/A",тв 3
+http://46.174.83.66/TV3/mpegts
+#EXTINF:-1  tvg-id="tvc" group-title="Россия" tvg-logo="N/A",тв центр
+http://46.174.83.66/TVCentr/mpegts
+#EXTINF:-1  tvg-id="N/A" group-title="Россия" tvg-logo="N/A",рен тв
+http://46.174.83.66/RenTV/mpegts
+#EXTINF:-1  tvg-id="N/A" group-title="Россия" tvg-logo="N/A",звезда
+http://46.174.83.66/Zvezda/mpegts
+#EXTINF:-1  tvg-id="N/A" group-title="Развлекательные" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/ad734095813c38647b1e312311c51dae.jpg",ТНТ International
+http://37.99.5.235/btv/SWM/TNT/TNT_576p_2000kbps.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Развлекательные" tvg-logo="http://epg.it999.ru/img/1767.png",ТНТ hd
+http://109.239.128.126:8080/tnt/tracks-v2a1/mono.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Развлекательные" tvg-logo="N/A",ТНТ4 HD
+http://85.112.114.11:8088/udp/238.2.61.243:1234
+#EXTINF:-1  tvg-id="ntv-hit" group-title="Наши сериалы" tvg-logo="http://epg.it999.ru/img/2041.png",НТВ ХИТ
+http://46.174.83.66/NTV_Hit/mpegts
+#EXTINF:-1  tvg-id="N/A" group-title="Наше кино" tvg-logo="http://epg.it999.ru/img/2447.png",ПОБЕДА
+http://46.174.83.66/Pobeda/mpegts
+#EXTINF:-1  tvg-id="N/A" group-title="Спортивные" tvg-logo="N/A",Eurosport 1
+http://46.34.209.243:80/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Спортивные" tvg-logo="N/A",Eurosport 2
+http://46.34.209.243/btv/SWM/Eurosport2/Eurosport2_576p_2000kbps.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Спортивные" tvg-logo="N/A",RUSSIA 2 HD
+http://45.80.44.93:25001/play/a01p/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Спортивные" tvg-logo="N/A",НТВ+ Спорт hd
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1  tvg-id="viasat-sport-hd" group-title="Спортивные" tvg-logo="http://epg.it999.ru/img/2004.png",Viasat sport HD
+http://iptv.prosto.tv:7000/ch108/video.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Кино VIP" tvg-logo="N/A",ViP PREMIERE HD
+http://dmitry-tv.ml/hls/CH_ViPPREMIEREHD.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Кино VIP" tvg-logo="N/A",ViP MEGAHIT HD
+http://dmitry-tv.ml/hls/CH_ViPMEGAHITHD.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Кино VIP" tvg-logo="N/A",ViP COMEDY HD
+http://dmitry-tv.ml/hls/CH_ViPCOMEDYHD.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Кино VIP" tvg-logo="http://epg.it999.ru/img/2838.png",ViP SERIAL HD
+http://dmitry-tv.ml/hls/CH_ViPSERIALHD.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Музыка" tvg-logo="N/A",1 HD
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Музыка" tvg-logo="N/A",RU TV hd
+http://rutv.gcdn.co/streams/1410_95/1080n/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Музыка" tvg-logo="N/A",муз тв
+http://46.174.83.66/MuzTV/mpegts
+#EXTINF:-1  tvg-id="N/A" group-title="Музыка" tvg-logo="https://strana.fm/wp-content/uploads/2017/11/logo_171130.png",Страна FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Музыка" tvg-logo="http://pl.ottg.tv:80/icon/2922.png",Eurodance 90 HD
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Музыка" tvg-logo="http://i114.fastpic.ru/big/2021/0210/89/201b08a4197caed24385da0b855d9589.png",Sonus
+http://www.sonus.fm:1935/public/stream_in/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/2235.png",MTV 90s
+http://194.9.27.164:8109/play/MTV_90s/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Музыка" tvg-logo="N/A",Hit TV
+http://rosshow.gcdn.co/streams/1410_287/720n/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Музыка" tvg-logo="http://tricolor-38.ru/TRICOLOR_KANALY/Radio-Shanson-FM.jpg",Радио-шансон-FM
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+#EXTINF:-1  tvg-id="vh1-classic" group-title="Музыка" tvg-logo="https://app.playlistbox.com/icon/mLqEygb36eAPXvx4z1Zw1B4J20a7VGdn.png",MTV 80s
+http://iptv.prosto.tv:7000/ch130/video.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/2516.png",Жара
+http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/680.png",ТНТ Music hd
+http://83.222.205.65:8080/tntmusic/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/2024.png",BRIDGE TV  HITS
+http://45.80.44.93:25002/play/a04t/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Музыка" tvg-logo="N/A",BRiDGE TV
+http://45.80.44.93:25002/play/a03i/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Музыка" tvg-logo="http://iptv.browsers.dn.ua/stalker_portal/misc/logos/320/3690.png",mezzo
+http://194.9.27.164:8108/play/Mezzo/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Музыка" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00190.png",Mezzo
+http://iptv.prosto.tv:7000/ch139/video.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/801.png",MEZZO LIVE HD
+http://194.9.27.164:8101/play/Mezzo_Live_HD/index.m3u8
+
 #EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Матч ТВ
 http://188.113.190.12/6/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Premiere HD
@@ -248,65 +317,3 @@ https://185-82-203-145.livesports24.online/uafootballua1.m3u8
 https://185-82-203-145.livesports24.online/fooootball2.m3u8
 #EXTINF:-1 group-title="Livesports24",Футбол 3 Украина
 https://185-82-203-145.livesports24.online/football3ua.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="https://user-images.githubusercontent.com/86585095/124984468-1c9a0b00-dfee-11eb-8a08-90bbb8498032.png",California Music Channel
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Music (Music)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/155/index.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="https://user-images.githubusercontent.com/86585095/124048699-c7497280-d9cb-11eb-912d-21a9ef843d21.jpg",VH1 European (Music)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/536/index.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Russian Music Box (Music)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/2048/index.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="https://user-images.githubusercontent.com/86585095/124048699-c7497280-d9cb-11eb-912d-21a9ef843d21.jpg",Жара HD (Music)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/2129/index.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Clubbing TV HD RU (Music)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/2395/index.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="https://user-images.githubusercontent.com/86585095/124048699-c7497280-d9cb-11eb-912d-21a9ef843d21.jpg",Club MTV (Music)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/558/index.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Europa Plus TV (Music)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/115/index.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="https://user-images.githubusercontent.com/86585095/124048699-c7497280-d9cb-11eb-912d-21a9ef843d21.jpg",Vostok TV (Music)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/1054/index.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ТНТ MUSIC (Music)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/710/index.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="https://user-images.githubusercontent.com/86585095/124048699-c7497280-d9cb-11eb-912d-21a9ef843d21.jpg",SONG TV HD RU (Music)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/6394/index.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",1HD orig (Music)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/9001/index.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="https://user-images.githubusercontent.com/86585095/124048699-c7497280-d9cb-11eb-912d-21a9ef843d21.jpg",C-Music HD orig (Music)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/9003/index.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Russian Music Box orig (Music)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/9168/index.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="https://user-images.githubusercontent.com/86585095/124048699-c7497280-d9cb-11eb-912d-21a9ef843d21.jpg",MTV Live HD orig (Music)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/9009/index.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="",MTV Hits (Music)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/153/index.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="https://user-images.githubusercontent.com/86585095/124048699-c7497280-d9cb-11eb-912d-21a9ef843d21.jpg",MTV 80s (Music)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/724/index.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="",MTV 90s (Music)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/1038/index.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="https://user-images.githubusercontent.com/86585095/124048699-c7497280-d9cb-11eb-912d-21a9ef843d21.jpg",MTV Россия HD (Music)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/2130/index.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",MCM Top Russia orig (Music)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/9175/index.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="https://user-images.githubusercontent.com/86585095/124048699-c7497280-d9cb-11eb-912d-21a9ef843d21.jpg",Шансон ТВ (Music)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/859/index.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Ля-минор ТВ orig (Music)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/9174/index.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="https://user-images.githubusercontent.com/86585095/124048699-c7497280-d9cb-11eb-912d-21a9ef843d21.jpg",RETRO DANCE 90S (Music)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/10064/index.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",RU.TV orig (Music)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/9179/index.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="https://user-images.githubusercontent.com/86585095/124048699-c7497280-d9cb-11eb-912d-21a9ef843d21.jpg",Европа Плюс ТВ orig (Music)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/9257/index.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Mafi2a TV (Music)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/7223/index.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="https://user-images.githubusercontent.com/86585095/124048699-c7497280-d9cb-11eb-912d-21a9ef843d21.jpg",Ritsa TV (Music)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/7224/index.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Bridge TV HD orig (Music)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/9012/index.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="https://user-images.githubusercontent.com/86585095/124984468-1c9a0b00-dfee-11eb-8a08-90bbb8498032.png",NEW MUSIC (Music)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/10062/index.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Music Top HD (Music)
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/10072/index.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TNT Music (Music)
-http://185.97.150.19:8082/98
