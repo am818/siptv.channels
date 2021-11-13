@@ -161,60 +161,90 @@ http://176.222.164.72/btv/SWM/FoxLife/FoxLife_720p_3500kbps.m3u8
 #EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Boomerang
 http://37.99.5.235/btv/SWM/Boomerang/Boomerang_576p_2000kbps.m3u8
 
-#EXTINF:-1 ,Kinoklub
-http://autopilot.catcast.tv/content/39005/index.m3u8
-#EXTINF:-1 ,Родное Кино
-http://109.239.128.126:8080/rodnoe_kino/tracks-v2a1/mono.m3u8
-#EXTINF:-1 ,Наше Новое Кино HD
-http://37.99.5.234/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_1080p_5000kbps.m3u8
-#EXTINF:-1 ,Мужское кино
-https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
-#EXTINF:-1 ,Кинохит HD
-http://109.239.128.126:8080/kinohit/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Киносемья
-http://cache2.multiscreen.moldtelecom.md:80/live/eds/kinosemya_sd/HLSv3/kinosemya_sd.m3u8
-#EXTINF:-1 ,Киносвидание HD
-http://37.99.5.234/btv/SWM/Kinosvidanie/Kinosvidanie_720p_3500kbps.m3u8
-#EXTINF:-1 ,Кинокомедия
-http://cache2.multiscreen.moldtelecom.md:80/live/eds/kinocomedia_sd/HLSv3/kinocomedia_sd.m3u8
-#EXTINF:-1 ,VIP Premiere
+#EXTINF:-1,VIP Premiere
+#EXTGRP:Кино
 https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
-#EXTINF:-1 ,VIP Megahit
+#EXTINF:-1,VIP Megahit
+#EXTGRP:Кино
 https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
-#EXTINF:-1 ,VIP Comedy
+#EXTINF:-1,VIP Comedy
+#EXTGRP:Кино
 https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
-#EXTINF:-1 ,TV1000 Русское кино HD
+#EXTINF:-1,VIP Serial
+#EXTGRP:Кино
+https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
+#EXTINF:-1,TV1000 HD
+#EXTGRP:Кино
+https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
+#EXTINF:-1,TV1000 Action HD
+#EXTGRP:Кино
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
+#EXTINF:-1,TV1000 Русское кино HD
+#EXTGRP:Кино
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
-#EXTINF:-1 ,TV 1000 HD
+#EXTINF:-1,TV 1000 Русское кино Int
+#EXTGRP:Кино
+http://74.102.118.117:8812/udp/127.0.0.1:5311
+#EXTINF:-1,TV 1000 HD
+#EXTGRP:Кино
 http://dmitry-tv.ml/hls/CH_TV1000HD.m3u8
-#EXTINF:-1 ,TV 1000 Action FHD
+#EXTINF:-1,TV 1000 Action FHD
+#EXTGRP:Кино
 http://dmitry-tv.ml/hls/CH_TV1000ACTIONHD.m3u8
-#EXTINF:-1 ,Premium HD
-http://195.154.242.229/Premium_HD/video.m3u8?token=MXjzqOlW50
-#EXTINF:-1 ,Premiere HD
-http://195.154.242.229/Premiere_HD/video.m3u8?token=MXjzqOlW50
-#EXTINF:-1 ,Paradox HD
-http://195.154.242.229/Paradox_HD/video.m3u8?token=MXjzqOlW50
-#EXTINF:-1 ,Paradise HD
-http://195.154.242.229/Paradise_HD/video.m3u8?token=MXjzqOlW50
-#EXTINF:-1 ,Kino Watch TV 1
+#EXTINF:-1,Kino Watch TV 1
+#EXTGRP:Кино
 https://ed-nl-01.mycdn.video/fresh/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Kino Watch TV 2
+#EXTINF:-1,Kino Watch TV 2
+#EXTGRP:Кино
 https://ed-nl-01.mycdn.video/hit/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Kino Watch TV 3
+#EXTINF:-1,Kino Watch TV 3
+#EXTGRP:Кино
 https://ed-nl-01.mycdn.video/docu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,TOP: Великолепный Век
-http://topchantv.net:3456/live/TESTTOP/TESTTOP/6.m3u8
-#EXTINF:-1 ,TOP: USSR
-http://topchantv.net:3456/live/TESTTOP/TESTTOP/6641.m3u8
-#EXTINF:-1 ,TOP: MIX HD
-http://topchantv.net:3456/live/TESTTOP/TESTTOP/12597.m3u8
-#EXTINF:-1 ,TOP: BUDO HD
-http://topchantv.net:3456/live/TESTTOP/TESTTOP/428.m3u8
-#EXTINF:-1 ,TOP: 80's
-http://topchantv.net:3456/live/TESTTOP/TESTTOP/1611.m3u8
-#EXTINF:-1 ,FilMax
-http://cdnhls.goodgame.ru/hls/163253.m3u8
+#EXTINF:-1,Premiere HD 1
+#EXTGRP:Кино
+http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/33691/hlsx/pl.m3u8
+#EXTINF:-1,Premiere HD 4
+#EXTGRP:Кино
+http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/52961/hlsx/pl.m3u8
+#EXTINF:-1,Дорама HD
+#EXTGRP:Кино
+http://46.34.209.243:80/btv/SWM/Dorama/Dorama_720p_3500kbps.m3u8
+#EXTINF:-1,Кинохит
+#EXTGRP:Кино
+https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+#EXTINF:-1,Киномикс HD
+#EXTGRP:Кино
+https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+#EXTINF:-1,Киносемья FHD
+#EXTGRP:Кино
+https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+#EXTINF:-1,Кинокомедия
+#EXTGRP:Кино
+https://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
+#EXTINF:-1,Киносвидание HD
+#EXTGRP:Кино
+https://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+#EXTINF:-1,Мужское Кино HD
+#EXTGRP:Кино
+https://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8
+#EXTINF:-1,Родное Кино
+#EXTGRP:Кино
+https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
+#EXTINF:-1,Наше Новое Кино FHD
+#EXTGRP:Кино
+http://46.34.209.243/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_1080p_5000kbps.m3u8
+#EXTINF:-1,Кинопремьера FHD
+#EXTGRP:Кино
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+#EXTINF:-1,Дом Кино Премиум HD
+#EXTGRP:Кино
+https://sc.id-tv.kz/domkino_hd_38_39.m3u8
+#EXTINF:-1,Победа
+#EXTGRP:Кино
+https://sc.id-tv.kz/Pobeda_34_35.m3u8
+#EXTINF:-1,Cinema
+#EXTGRP:Кино
+https://sc.id-tv.kz/Cinema_34_35.m3u8
 #EXTINF:-1 ,FILM Триллер
 https://autopilot.catcast.tv/content/38794/index.m3u8
 #EXTINF:-1 ,FILM Блокбастер
@@ -251,8 +281,6 @@ http://91.221.201.2:7100/play/a00j/index.m3u8
 http://185.228.135.48:8080/tv_russian_comedy_sd/index.m3u8
 #EXTINF:-1 ,Комедийное FHD
 http://185.228.135.48:8080/tv_komediynoe_hd/index.m3u8
-#EXTINF:-1 ,Кинопоказ
-http://91.221.201.2:7006/play/a002/index.m3u8
 #EXTINF:-1 ,Кинозал-VHS 90s
 http://v2.catcast.me/content/37925/index.m3u8
 #EXTINF:-1 ,КИНО 24
@@ -269,18 +297,10 @@ http://185.228.135.48:8080/tv_retro_tv_sd/index.m3u8
 http://195.154.242.229/Victory_HD/video.m3u8?token=MXjzqOlW50
 #EXTINF:-1 ,USSR HD
 http://195.154.242.229/USSR_HD/video.m3u8?token=MXjzqOlW50
-#EXTINF:-1 ,Победа
-http://46.34.209.243:80/btv/SWM/Pobeda/Pobeda_576p_2000kbps.m3u8
 #EXTINF:-1 ,Наше Любимое Кино
 http://46.34.209.243:80/btv/SWM/Nashe_Lubimoe_Kino/Nashe_Lubimoe_Kino_576p_2000kbps.m3u8
 #EXTINF:-1 ,Мосфильм Золотая Коллекция HD
 http://109.239.128.126:8080/mosfilm/tracks-v2a1/mono.m3u8
-#EXTINF:-1 ,Дом кино Премиум HD
-http://37.99.5.234/btv/SWM/Dom_kino_Prem/Dom_kino_Prem_1080p_5000kbps.m3u8
-#EXTINF:-1 ,ДОМ КИНО
-http://46.34.209.243/btv/SWM/Dom_Kino/Dom_Kino_576p_2000kbps.m3u8
-#EXTINF:-1 ,РУССКИЙ ИЛЛЮЗИОН
-http://86.57.178.105:10823
 #EXTINF:-1 ,РУкино HD
 http://195.154.242.229/RuKino_HD/video.m3u8?token=MXjzqOlW50
 #EXTINF:-1 ,Любимый HD
@@ -293,8 +313,6 @@ http://95.67.12.94:9002
 http://95.67.12.94:9001
 #EXTINF:-1 ,Hollywood HD
 http://46.34.209.243:80/btv/SWM/Hollywood/Hollywood.m3u8
-#EXTINF:-1 ,Cinema
-http://46.34.209.242:80/btv/SWM/CINEMA/CINEMA_576p_2000kbps.m3u8
 
 #EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Radio Van 103.0 FM Yerevan
 http://stream.radiovan.fm/stream/index.m3u8
@@ -419,3 +437,16 @@ https://185-82-203-145.livesports24.online/uafootballua1.m3u8
 https://185-82-203-145.livesports24.online/fooootball2.m3u8
 #EXTINF:-1 group-title="Livesports24",Футбол 3 Украина
 https://185-82-203-145.livesports24.online/football3ua.m3u8
+
+#EXTINF:-1,Космос FHD
+#EXTGRP:Релакс
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
+#EXTINF:-1,Пляжи FHD
+#EXTGRP:Релакс
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
+#EXTINF:-1,Аквариум HD
+#EXTGRP:Релакс
+https://forumstatic.ru/files/0014/11/1c/61313.m3u8
+#EXTINF:-1,Relax 2
+#EXTGRP:Релакс
+https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
