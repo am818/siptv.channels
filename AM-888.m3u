@@ -1,83 +1,59 @@
 #EXTM3U
-#EXTINF:-1, *AM TV*
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",*AM TV*
 https://user-images.githubusercontent.com/86585095/127724738-319c956d-fb39-48b0-af51-cac56b293f00.mp4
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/astro.com.my.guide.xml,https://iptv-org.github.io/epg/guides/cosmote.gr.guide.xml,https://iptv-org.github.io/epg/guides/mncvision.id.guide.xml"
-#EXTINF:-1 tvg-id="1TV.am" tvg-country="AM" tvg-language="" tvg-logo="" group-title="",1 TV (1080p)
+#EXTINF:-1  tvg-id="1TV.am" group-title="N/A" tvg-logo="N/A",1 TV (1080p)
 http://amtv1.livestreamingcdn.com/am2abr/index.m3u8
-#EXTINF:-1 tvg-id="5TV.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/yigw9dr.png" group-title="",5TV (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+#EXTINF:-1  tvg-id="5TV.am" group-title="N/A" tvg-logo="https://i.imgur.com/yigw9dr.png",5TV (480p)
 http://ott-cdn.ucom.am/s6/index.m3u8
-#EXTINF:-1 tvg-id="21TV.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/hbkWdwn.png" group-title="",21TV (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+#EXTINF:-1  tvg-id="21TV.am" group-title="N/A" tvg-logo="https://i.imgur.com/hbkWdwn.png",21TV (480p)
 http://ott-cdn.ucom.am/s10/index.m3u8
-#EXTINF:-1 tvg-id="Armenia2.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/XwbLfqd.png" group-title="",Armenia 2 (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+#EXTINF:-1  tvg-id="Armenia2.am" group-title="N/A" tvg-logo="https://i.imgur.com/XwbLfqd.png",Armenia 2 (480p)
 http://ott-cdn.ucom.am/s22/index.m3u8
-#EXTINF:-1 tvg-id="Armenia3.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/AhX46e5.png" group-title="",Armenia 3 (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+#EXTINF:-1  tvg-id="Armenia3.am" group-title="N/A" tvg-logo="https://i.imgur.com/AhX46e5.png",Armenia 3 (480p)
 http://ott-cdn.ucom.am/s42/index.m3u8
-#EXTINF:-1 tvg-id="Armenia4.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/pvF7dGN.png" group-title="",Armenia 4 (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+#EXTINF:-1  tvg-id="Armenia4.am" group-title="N/A" tvg-logo="https://i.imgur.com/pvF7dGN.png",Armenia 4 (480p)
 http://ott-cdn.ucom.am/s32/index.m3u8
-#EXTINF:-1 tvg-id="Armenia5.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/XjhkUXy.png" group-title="",Armenia 5 (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+#EXTINF:-1  tvg-id="Armenia5.am" group-title="N/A" tvg-logo="https://i.imgur.com/XjhkUXy.png",Armenia 5 (480p)
 http://ott-cdn.ucom.am/s46/index.m3u8
-#EXTINF:-1 tvg-id="Armenia6.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/fRfGuQg.png" group-title="",Armenia 6 (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+#EXTINF:-1  tvg-id="Armenia6.am" group-title="N/A" tvg-logo="https://i.imgur.com/fRfGuQg.png",Armenia 6 (480p)
 http://ott-cdn.ucom.am/s66/index.m3u8
-#EXTINF:-1 tvg-id="ArmeniaPremium.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/IxOFvqz.png" group-title="",Armenia Premium (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+#EXTINF:-1  tvg-id="ArmeniaPremium.am" group-title="N/A" tvg-logo="https://i.imgur.com/IxOFvqz.png",Armenia Premium (1080p)
 http://ott-cdn.ucom.am/s83/index.m3u8
-#EXTINF:-1 tvg-id="ArmeniaTV.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/fnoOw8T.png" group-title="",Armenia TV (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+#EXTINF:-1  tvg-id="ArmeniaTV.am" group-title="N/A" tvg-logo="https://i.imgur.com/fnoOw8T.png",Armenia TV (1080p)
 http://ott-cdn.ucom.am/s4/index.m3u8
-#EXTINF:-1 tvg-id="ArmNews.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/0vrFGY5.png" group-title="News",ArmNews (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+#EXTINF:-1  tvg-id="ArmNews.am" group-title="News" tvg-logo="https://i.imgur.com/0vrFGY5.png",ArmNews (1080p)
 http://ott-cdn.ucom.am/s11/index.m3u8
-#EXTINF:-1 tvg-id="ATV.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Atvnew.png" group-title="",ATV (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+#EXTINF:-1  tvg-id="ATV.am" group-title="N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Atvnew.png",ATV (480p)
 http://ott-cdn.ucom.am/s8/index.m3u8
-#EXTINF:-1 tvg-id="ATVBazmoc.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/mrfm9uY.png" group-title="",ATV Bazmoc (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+#EXTINF:-1  tvg-id="ATVBazmoc.am" group-title="N/A" tvg-logo="https://i.imgur.com/mrfm9uY.png",ATV Bazmoc (480p)
 http://ott-cdn.ucom.am/s74/index.m3u8
-#EXTINF:-1 tvg-id="ATVFilmzone.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/uWBrDpV.png" group-title="",ATV Filmzone (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+#EXTINF:-1  tvg-id="ATVFilmzone.am" group-title="N/A" tvg-logo="https://i.imgur.com/uWBrDpV.png",ATV Filmzone (480p)
 http://ott-cdn.ucom.am/s48/index.m3u8
-#EXTINF:-1 tvg-id="ATVHay.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/KCkzU5R.png" group-title="",ATV Hay (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+#EXTINF:-1  tvg-id="ATVHay.am" group-title="N/A" tvg-logo="https://i.imgur.com/KCkzU5R.png",ATV Hay (480p)
 http://ott-cdn.ucom.am/s73/index.m3u8
-#EXTINF:-1 tvg-id="ATVKinoman.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/lidNHkH.png" group-title="",ATV Kinoman (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+#EXTINF:-1  tvg-id="ATVKinoman.am" group-title="N/A" tvg-logo="https://i.imgur.com/lidNHkH.png",ATV Kinoman (480p)
 http://ott-cdn.ucom.am/s94/index.m3u8
-#EXTINF:-1 tvg-id="ATVTava.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/cndJCRU.png" group-title="",ATV Tava (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+#EXTINF:-1  tvg-id="ATVTava.am" group-title="N/A" tvg-logo="https://i.imgur.com/cndJCRU.png",ATV Tava (480p)
 http://ott-cdn.ucom.am/s53/index.m3u8
-#EXTINF:-1 tvg-id="H2.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="http://www.coolstreaming.us/img/ch/image3021371737.jpg" group-title="",H2 (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+#EXTINF:-1  tvg-id="H2.am" group-title="N/A" tvg-logo="http://www.coolstreaming.us/img/ch/image3021371737.jpg",H2 (480p)
 http://ott-cdn.ucom.am/s2/index.m3u8
-#EXTINF:-1 tvg-id="H3TV.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/AMUR14B.png" group-title="",H3 TV (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+#EXTINF:-1  tvg-id="H3TV.am" group-title="N/A" tvg-logo="https://i.imgur.com/AMUR14B.png",H3 TV (480p)
 http://ott-cdn.ucom.am/s12/index.m3u8
-#EXTINF:-1 tvg-id="HorizonArmenian.us" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/GVUIJiD.png" group-title="",Horizon Armenian (1080p)
+#EXTINF:-1  tvg-id="HorizonArmenian.us" group-title="N/A" tvg-logo="https://i.imgur.com/GVUIJiD.png",Horizon Armenian (1080p)
 http://5.254.76.34:17070/C441/index.m3u8?token=kdsdkwy453wrRq29IIIo
-#EXTINF:-1 tvg-id="KentronTV.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/g7pEQG6.png" group-title="",Kentron TV (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+#EXTINF:-1  tvg-id="KentronTV.am" group-title="N/A" tvg-logo="https://i.imgur.com/g7pEQG6.png",Kentron TV (480p)
 http://ott-cdn.ucom.am/s5/index.m3u8
-#EXTINF:-1 tvg-id="PublicTVofArmenia.am" tvg-country="AM" tvg-language="" tvg-logo="" group-title="",Public TV of Armenia (1080p)
+#EXTINF:-1  tvg-id="PublicTVofArmenia.am" group-title="N/A" tvg-logo="N/A",Public TV of Armenia (1080p)
 http://serv24.vintera.tv:8081/test/h1_arm/index.m3u8
-#EXTINF:-1 tvg-id="ShantTV.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/EbqVba3.png" group-title="",Shant TV (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+#EXTINF:-1  tvg-id="ShantTV.am" group-title="N/A" tvg-logo="https://i.imgur.com/EbqVba3.png",Shant TV (1080p)
 http://ott-cdn.ucom.am/s3/index.m3u8
-#EXTINF:-1 tvg-id="Shoghakat.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/e4VxCnn.png" group-title="",Shoghakat (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+#EXTINF:-1  tvg-id="Shoghakat.am" group-title="N/A" tvg-logo="https://i.imgur.com/e4VxCnn.png",Shoghakat (480p)
 http://ott-cdn.ucom.am/s13/index.m3u8
-#EXTINF:-1 tvg-id="YerkirMedia.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/FKpxkVH.png" group-title="",Yerkir Media (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+#EXTINF:-1  tvg-id="YerkirMedia.am" group-title="N/A" tvg-logo="https://i.imgur.com/FKpxkVH.png",Yerkir Media (480p)
 http://ott-cdn.ucom.am/s7/index.m3u8
-
-#EXTINF:-1,CNN International
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",CNN International
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-#EXTINF:-1,NBC News Now
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",NBC News Now
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1920x1080_3660800/chunklist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Центральные" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/70787/2a0000016002f5285d0523e4cf8dbcbc7b51/orig",Первый канал HD
 http://91.192.168.251:5050
@@ -103,7 +79,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://uiptv.do.am/1ufc/000000005/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Россия" tvg-logo="http://epg.it999.ru/img/2039.png",Звезда плюс
 http://45.80.44.93:25001/play/a01i/index.m3u8
-#EXTINF:-1 ,SOCHI HD
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SOCHI HD
 http://sochi-strk.ru:2015/STRK/mpegts
 #EXTINF:-1  tvg-id="piatnica" group-title="Россия" tvg-logo="N/A",пятница
 http://46.174.83.66/Pytnica/mpegts
@@ -125,186 +101,169 @@ http://109.239.128.126:8080/tnt/tracks-v2a1/mono.m3u8
 http://85.112.114.11:8088/udp/238.2.61.243:1234
 #EXTINF:-1  tvg-id="ntv-hit" group-title="Наши сериалы" tvg-logo="http://epg.it999.ru/img/2041.png",НТВ ХИТ
 http://46.174.83.66/NTV_Hit/mpegts
-
-#EXTINF:-1,Discovery Channel HD
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Discovery Channel HD
 http://46.34.209.244:80/btv/SWM/discovery_hd/discovery_hd_720p_3500kbps.m3u8
-#EXTINF:-1,Discovery Science HD
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Discovery Science HD
 http://45.80.44.93:25022/play/a04m/index.m3u8
-#EXTINF:-1,Investigation Discovery
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Investigation Discovery
 http://45.80.44.93:25022/play/a02l/index.m3u8
-#EXTINF:-1,National Geographic HD
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",National Geographic HD
 http://87.247.44.26/btv/SWM/NatGeo_channel/NatGeo_channel_720p_3500kbps.m3u8
-#EXTINF:-1,National Geographic Wild HD
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",National Geographic Wild HD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-#EXTINF:-1,Animal Planet FHD
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Animal Planet FHD
 http://46.34.209.244:80/btv/SWM/animal_hd/animal_hd_1080p_5000kbps.m3u8
-#EXTINF:-1,Viasat Nature
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Viasat Nature
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
-#EXTINF:-1,Viasat Explore
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Viasat Explore
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
-#EXTINF:-1,Viasat History
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Viasat History
 https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
-#EXTINF:-1,History HD
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",History HD
 http://46.34.209.244:80/btv/SWM/HistoryHD/HistoryHD_1080p_5000kbps.m3u8
-#EXTINF:-1,NASA TV
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",NASA TV
 https://helga.iptv2022.com/NASA_TV_Media_eng/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Наука
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Наука
 http://31.131.191.7:8000/play/a03d
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",AMEDIA Hit HD
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",AMEDIA Hit HD
 http://edge04.beetv.kz:80/btv/SWM/AmediaHitHD/AmediaHitHD_720p_3500kbps.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",AMEDIA Premium HD
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",AMEDIA Premium HD
 http://edge04.beetv.kz:80/btv/SWM/Amedia_PremiumHD/Amedia_PremiumHD_720p_3500kbps.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",FOX HD
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",FOX HD
 http://176.222.187.146:80/btv/SWM/FOX/FOX_720p_3500kbps.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",FOX Life HD
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",FOX Life HD
 http://176.222.164.72/btv/SWM/FoxLife/FoxLife_720p_3500kbps.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Boomerang
-http://37.99.5.235/btv/SWM/Boomerang/Boomerang_576p_2000kbps.m3u8
 
-#EXTINF:-1,VIP Premiere
-#EXTGRP:Кино
+#EXTINF:-1 ,VIP Premiere
 https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
-#EXTINF:-1,VIP Megahit
-#EXTGRP:Кино
+#EXTINF:-1 ,VIP Megahit
 https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
-#EXTINF:-1,VIP Comedy
-#EXTGRP:Кино
+#EXTINF:-1 ,VIP Comedy
 https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
-#EXTINF:-1,VIP Serial
-#EXTGRP:Кино
+#EXTINF:-1 ,VIP Serial
 https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
-#EXTINF:-1,TV1000 HD
-#EXTGRP:Кино
+#EXTINF:-1 ,TV1000 HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
-#EXTINF:-1,TV1000 Action HD
-#EXTGRP:Кино
+#EXTINF:-1 ,TV1000 Action HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
-#EXTINF:-1,TV1000 Русское кино HD
-#EXTGRP:Кино
+#EXTINF:-1 ,TV1000 Русское кино HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
-#EXTINF:-1,TV 1000 Русское кино Int
-#EXTGRP:Кино
+#EXTINF:-1 ,TV 1000 Русское кино Int
 http://74.102.118.117:8812/udp/127.0.0.1:5311
-
-
-
-
-#EXTINF:-1,Кинохит
-http://78.58.133.179:28000/play/a075/index.m3u8
-#EXTINF:-1,Киномикс
-http://78.58.133.179:28000/play/a070/index.m3u8
-#EXTINF:-1,Мужское Кино FHD
-http://46.34.209.244:80/btv/SWM/MuzhskoyeKinoHD/MuzhskoyeKinoHD_1080p_5000kbps.m3u8
-#EXTINF:-1,Кинопремьера HD
-http://78.58.133.179:28000/play/a004/index.m3u8
-#EXTINF:-1,Киносемья
-http://78.58.133.179:28000/play/a067/index.m3u8
-#EXTINF:-1,Кинокомедия FHD
-http://46.34.209.244:80/btv/SWM/Kinokomedija/Kinokomedija_1080p_5000kbps.m3u8
-#EXTINF:-1,Киносвидание FHD
-http://46.34.209.244:80/btv/SWM/Kinosvidanie/Kinosvidanie_1080p_5000kbps.m3u8
-#EXTINF:-1,Наше новое кино HD
-http://46.34.209.243/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_1080p_5000kbps.m3u8
-#EXTINF:-1,Родное Кино
-http://46.34.209.244:80/btv/SWM/rodnoe_kino/rodnoe_kino_576p_2000kbps.m3u8
-#EXTINF:-1,Дом Кино
-http://46.174.83.66/Dom_Kino/mpegts
-#EXTINF:-1,Победа
-#EXTGRP:Кино
-https://sc.id-tv.kz/Pobeda_34_35.m3u8
-#EXTINF:-1 ,Haykino ATV
-http://ott-cdn.ucom.am/s22/index.m3u8
-#EXTINF:-1 ,Filmzone ATV
-http://ott-cdn.ucom.am/s48/04.m3u8
-#EXTINF:-1 ,Cineman ATV
-http://ott-cdn.ucom.am/s66/04.m3u8
-#EXTINF:-1 ,Kinoman ATV
-http://ott-cdn.ucom.am/s94/04.m3u8
-#EXTINF:-1 ,Свежаки HD
-https://ed-nl-01.mycdn.video/fresh/index.m3u8
-#EXTINF:-1 ,Прем'єра
-https://v2.catcast.tv/content/38792/index.m3u8
-
-#EXTINF:-1,Kino Watch TV 1
-#EXTGRP:Кино
-https://ed-nl-01.mycdn.video/fresh/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Kino Watch TV 2
-#EXTGRP:Кино
-https://ed-nl-01.mycdn.video/hit/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Kino Watch TV 3
-#EXTGRP:Кино
-https://ed-nl-01.mycdn.video/docu/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Premiere HD 1
-#EXTGRP:Кино
-http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/33691/hlsx/pl.m3u8
-#EXTINF:-1,Premiere HD 4
-#EXTGRP:Кино
-http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/52961/hlsx/pl.m3u8
-#EXTINF:-1,Дорама HD
-#EXTGRP:Кино
-http://46.34.209.243:80/btv/SWM/Dorama/Dorama_720p_3500kbps.m3u8
-
-#EXTINF:-1,Cinema
-#EXTGRP:Кино
-https://sc.id-tv.kz/Cinema_34_35.m3u8
-#EXTINF:-1 ,FILM Триллер
-https://autopilot.catcast.tv/content/38794/index.m3u8
-#EXTINF:-1 ,FILM Блокбастер
-http://autopilot.catcast.tv/content/40017/index.m3u8
-#EXTINF:-1 ,Film TV HD
-https://hls.goodgame.ru/hls/186959.m3u8
-#EXTINF:-1 ,Film Box Arthouse
-http://188.232.102.173:9981/stream/channelid/629776531
-#EXTINF:-1 ,Film Box
-http://94.230.240.17:8080/film_box/index.m3u8
-#EXTINF:-1 ,Millenium TV HD
-http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8
-#EXTINF:-1 ,Thriller HD
-http://195.154.242.229/Thriller_HD/video.m3u8?token=MXjzqOlW50
-
-#EXTINF:-1 ,Первый Российский Национальный
-http://62.76.27.70:8081/1pnk/1pnk/playlist.m3u8
-#EXTINF:-1 ,НТМ HD
-http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-#EXTINF:-1 ,НСТ
-http://91.221.201.2:7100/play/a00j/index.m3u8
-#EXTINF:-1 ,Комедия ТВ
-http://185.228.135.48:8080/tv_russian_comedy_sd/index.m3u8
-#EXTINF:-1 ,Комедийное FHD
-http://185.228.135.48:8080/tv_komediynoe_hd/index.m3u8
-#EXTINF:-1 ,Кинозал-VHS 90s
-http://v2.catcast.me/content/37925/index.m3u8
-#EXTINF:-1 ,КИНО 24
-http://85.192.10.131/hls/Kino24Ru/playlist.m3u8
-#EXTINF:-1 ,ЕВРОКИНО
-http://46.34.209.243/btv/SWM/Eurokino/Eurokino_576p_2000kbps.m3u8
-#EXTINF:-1 ,A HIT HD 1080p
-http://46.34.209.243:80/btv/SWM/AmediaHitHD/AmediaHitHD_1080p_5000kbps.m3u8
-#EXTINF:-1 ,A Premium HD
-http://46.34.209.243:80/btv/SWM/Amedia_PremiumHD/Amedia_PremiumHD.m3u8
-#EXTINF:-1 ,РЕТРО
-http://185.228.135.48:8080/tv_retro_tv_sd/index.m3u8
+#EXTINF:-1 ,Paradise HD
+http://195.154.242.229/Paradise_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:-1 ,Paradox HD
+http://195.154.242.229/Paradox_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:-1 ,Premiere HD
+http://195.154.242.229/Premiere_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:-1 ,Premium HD
+http://195.154.242.229/Premium_HD/video.m3u8?token=telegram-premieregroup
 #EXTINF:-1 ,Victory HD
+http://195.154.242.229/Victory_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:-1 ,КИНОХИТ HD
+http://31.134.132.245:8080/kinohit_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Кинопремьера HD
+http://78.58.133.179:28000/play/a004/index.m3u8
+#EXTINF:-1 ,Киномикс
+http://78.58.133.179:28000/play/a070/index.m3u8
+#EXTINF:-1 ,Кинокомедия
+http://46.174.83.66/Kinokomedia/mpegts
+#EXTINF:-1 ,Киносемья
+http://31.173.178.110:8004/play/a090/index.m3u8
+#EXTINF:-1 ,Кинопоказ
+http://31.134.132.245:8080/kinopokaz/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Мужское Кино FHD
+http://46.34.209.244:80/btv/SWM/MuzhskoyeKinoHD/MuzhskoyeKinoHD_1080p_5000kbps.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Кинопремьера HD
+http://78.58.133.179:28000/play/a004/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Киносвидание FHD
+http://46.34.209.244:80/btv/SWM/Kinosvidanie/Kinosvidanie_1080p_5000kbps.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Наше новое кино HD
+http://46.34.209.243/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_1080p_5000kbps.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Родное Кино
+http://46.34.209.244:80/btv/SWM/rodnoe_kino/rodnoe_kino_576p_2000kbps.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Дом Кино
+http://46.174.83.66/Dom_Kino/mpegts
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Победа
+https://sc.id-tv.kz/Pobeda_34_35.m3u8
+#EXTINF:-1 ,Дом Кино
+http://46.174.83.66/Dom_Kino/mpegts
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Haykino ATV
+http://ott-cdn.ucom.am/s22/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Filmzone ATV
+http://ott-cdn.ucom.am/s48/04.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Cineman ATV
+http://ott-cdn.ucom.am/s66/04.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Kinoman ATV
+http://ott-cdn.ucom.am/s94/04.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Свежаки HD
+https://ed-nl-01.mycdn.video/fresh/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Прем'єра
+https://v2.catcast.tv/content/38792/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Premiere HD 1
+http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/33691/hlsx/pl.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Premiere HD 4
+http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/52961/hlsx/pl.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Дорама HD
+http://46.34.209.243:80/btv/SWM/Dorama/Dorama_720p_3500kbps.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Cinema
+https://sc.id-tv.kz/Cinema_34_35.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",FILM Триллер
+https://autopilot.catcast.tv/content/38794/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",FILM Блокбастер
+http://autopilot.catcast.tv/content/40017/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Film TV HD
+https://hls.goodgame.ru/hls/186959.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Film Box Arthouse
+http://188.232.102.173:9981/stream/channelid/629776531
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Film Box
+http://94.230.240.17:8080/film_box/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Millenium TV HD
+http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Thriller HD
+http://195.154.242.229/Thriller_HD/video.m3u8?token=MXjzqOlW50
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Первый Российский Национальный
+http://62.76.27.70:8081/1pnk/1pnk/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",НТМ HD
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",НСТ
+http://91.221.201.2:7100/play/a00j/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Комедия ТВ
+http://185.228.135.48:8080/tv_russian_comedy_sd/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Комедийное FHD
+http://185.228.135.48:8080/tv_komediynoe_hd/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Кинозал-VHS 90s
+http://v2.catcast.me/content/37925/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",КИНО 24
+http://85.192.10.131/hls/Kino24Ru/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ЕВРОКИНО
+http://46.34.209.243/btv/SWM/Eurokino/Eurokino_576p_2000kbps.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",A HIT HD 1080p
+http://46.34.209.243:80/btv/SWM/AmediaHitHD/AmediaHitHD_1080p_5000kbps.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",A Premium HD
+http://46.34.209.243:80/btv/SWM/Amedia_PremiumHD/Amedia_PremiumHD.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",РЕТРО
+http://185.228.135.48:8080/tv_retro_tv_sd/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Victory HD
 http://195.154.242.229/Victory_HD/video.m3u8?token=MXjzqOlW50
-#EXTINF:-1 ,USSR HD
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",USSR HD
 http://195.154.242.229/USSR_HD/video.m3u8?token=MXjzqOlW50
-#EXTINF:-1 ,Наше Любимое Кино
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Наше Любимое Кино
 http://46.34.209.243:80/btv/SWM/Nashe_Lubimoe_Kino/Nashe_Lubimoe_Kino_576p_2000kbps.m3u8
-#EXTINF:-1 ,Мосфильм Золотая Коллекция HD
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Мосфильм Золотая Коллекция HD
 http://109.239.128.126:8080/mosfilm/tracks-v2a1/mono.m3u8
-#EXTINF:-1 ,РУкино HD
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",РУкино HD
 http://195.154.242.229/RuKino_HD/video.m3u8?token=MXjzqOlW50
-#EXTINF:-1 ,Любимый HD
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Любимый HD
 http://92.245.103.126:1935/live/live.stream/playlist.m3u8
-#EXTINF:-1 ,TV1 Cinemastan HD
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TV1 Cinemastan HD
 http://st.kglive.asia/hls/tv1cinema.m3u8
-#EXTINF:-1 ,Star Family
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Star Family
 http://95.67.12.94:9002
-#EXTINF:-1 ,Star Cinema HD
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Star Cinema HD
 http://95.67.12.94:9001
-#EXTINF:-1 ,Hollywood HD
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Hollywood HD
 http://46.34.209.243:80/btv/SWM/Hollywood/Hollywood.m3u8
-
 #EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Radio Van 103.0 FM Yerevan
 http://stream.radiovan.fm/stream/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",M2O TV
@@ -317,6 +276,12 @@ http://www.sonus.fm:1935/public/stream_720p/chunklist_w514335426.m3u8
 http://rtmp.one.by:1300
 #EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Первый Музыкальный BY Россия HD
 http://rtmp.one.by:2300
+#EXTINF:-1 ,Hit Music Channel
+http://hitmusic.hu/hitmusic.m3u8
+#EXTINF:-1 ,Reload Radio Music Power HD
+http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
+#EXTINF:-1 ,МузСоюз
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Радио ХИТ (Орск)
 http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ACB TV
@@ -371,16 +336,15 @@ http://194.9.27.164:8108/play/Mezzo/index.m3u8
 http://iptv.prosto.tv:7000/ch139/video.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/801.png",MEZZO LIVE HD
 http://194.9.27.164:8101/play/Mezzo_Live_HD/index.m3u8
-
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Матч ТВ
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Матч ТВ
 http://188.113.190.12/6/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Sport TV 1 HD
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Sport TV 1 HD
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Eurosport 1
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Eurosport 1
 http://46.34.209.243:80/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",M-1 Global HD
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",M-1 Global HD
 http://176.222.164.73/btv/SWM/M1/M1_1080p_5000kbps.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Sky Sport 1
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Sky Sport 1
 http://stream.tvtap.live:8081/live/de-sky1.stream/chunks.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Спортивные" tvg-logo="N/A",Eurosport 1
 http://46.34.209.243:80/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8
@@ -392,54 +356,51 @@ http://45.80.44.93:25001/play/a01p/index.m3u8
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="viasat-sport-hd" group-title="Спортивные" tvg-logo="http://epg.it999.ru/img/2004.png",Viasat sport HD
 http://iptv.prosto.tv:7000/ch108/video.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TA HD UA
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TA HD UA
 http://live-1.otcnet.ru/tadtmf/tracks-v1a1/mono.m3u8?bw983666988618&utcstart=1601737200&version=2
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Euronews
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Euronews
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-#EXTINF:-1 group-title="Livesports24",Матч!
+#EXTINF:-1  tvg-id="N/A" group-title="Livesports24" tvg-logo="N/A",Матч!
 https://185-82-203-145.livesports24.online/ooomatch.m3u8
-#EXTINF:-1 group-title="Livesports24",Матч! Премьер
+#EXTINF:-1  tvg-id="N/A" group-title="Livesports24" tvg-logo="N/A",Матч! Премьер
 https://185-82-203-145.livesports24.online/mpremierrus.m3u8
-#EXTINF:-1 group-title="Livesports24",Матч! Футбол 1
+#EXTINF:-1  tvg-id="N/A" group-title="Livesports24" tvg-logo="N/A",Матч! Футбол 1
 https://185-82-203-145.livesports24.online/ntvmatchfoot1.m3u8
-#EXTINF:-1 group-title="Livesports24",Матч! Футбол 2
+#EXTINF:-1  tvg-id="N/A" group-title="Livesports24" tvg-logo="N/A",Матч! Футбол 2
 https://185-82-203-145.livesports24.online/mfootball2rus.m3u8
-#EXTINF:-1 group-title="Livesports24",Матч! Арена
+#EXTINF:-1  tvg-id="N/A" group-title="Livesports24" tvg-logo="N/A",Матч! Арена
 https://185-82-203-145.livesports24.online/rumatcharena.m3u8
-#EXTINF:-1 group-title="Livesports24",Матч! Боец
+#EXTINF:-1  tvg-id="N/A" group-title="Livesports24" tvg-logo="N/A",Матч! Боец
 https://185-82-203-145.livesports24.online/matchboetsru.m3u8
-#EXTINF:-1 group-title="Livesports24",Матч! Планета
+#EXTINF:-1  tvg-id="N/A" group-title="Livesports24" tvg-logo="N/A",Матч! Планета
 https://185-82-203-145.livesports24.online/matchplanetarus.m3u8
-#EXTINF:-1 group-title="Livesports24",Матч! Страна
+#EXTINF:-1  tvg-id="N/A" group-title="Livesports24" tvg-logo="N/A",Матч! Страна
 https://185-82-203-145.livesports24.online/mnashsport.m3u8
-#EXTINF:-1 group-title="Livesports24",Футбол
+#EXTINF:-1  tvg-id="N/A" group-title="Livesports24" tvg-logo="N/A",Футбол
 https://185-82-203-145.livesports24.online/footballrus.m3u8
-#EXTINF:-1 group-title="Livesports24",Eurosport 1
+#EXTINF:-1  tvg-id="N/A" group-title="Livesports24" tvg-logo="N/A",Eurosport 1
 https://185-82-203-145.livesports24.online/eurosport1ru.m3u8
-#EXTINF:-1 group-title="Livesports24",Setanta Sports 1
+#EXTINF:-1  tvg-id="N/A" group-title="Livesports24" tvg-logo="N/A",Setanta Sports 1
 https://185-82-203-145.livesports24.online/rusetantaeurasia.m3u8
-#EXTINF:-1 group-title="Livesports24",Setanta Украина
+#EXTINF:-1  tvg-id="N/A" group-title="Livesports24" tvg-logo="N/A",Setanta Украина
 https://185-82-203-145.livesports24.online/setantaukraine.m3u8
-#EXTINF:-1 group-title="Livesports24",Sport 1 Украина
+#EXTINF:-1  tvg-id="N/A" group-title="Livesports24" tvg-logo="N/A",Sport 1 Украина
 https://185-82-203-145.livesports24.online/sport1ua.m3u8
-#EXTINF:-1 group-title="Livesports24",Футбол 1 Украина
+#EXTINF:-1  tvg-id="N/A" group-title="Livesports24" tvg-logo="N/A",Футбол 1 Украина
 https://185-82-203-145.livesports24.online/uafootballua1.m3u8
-#EXTINF:-1 group-title="Livesports24",Футбол 2 Украина
+#EXTINF:-1  tvg-id="N/A" group-title="Livesports24" tvg-logo="N/A",Футбол 2 Украина
 https://185-82-203-145.livesports24.online/fooootball2.m3u8
-#EXTINF:-1 group-title="Livesports24",Футбол 3 Украина
+#EXTINF:-1  tvg-id="N/A" group-title="Livesports24" tvg-logo="N/A",Футбол 3 Украина
 https://185-82-203-145.livesports24.online/football3ua.m3u8
-
-#EXTINF:-1,Космос FHD
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Космос FHD
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
-#EXTINF:-1,Пляжи FHD
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Пляжи FHD
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
-#EXTINF:-1,Горы FHD
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Горы FHD
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
-#EXTINF:-1,Реки FHD
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Реки FHD
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1,Закат FHD
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Закат FHD
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
-
-#EXTINF:-1,Relax 2
-#EXTGRP:Релакс
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Relax 2
 https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
