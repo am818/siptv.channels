@@ -101,15 +101,17 @@ http://109.239.128.126:8080/tnt/tracks-v2a1/mono.m3u8
 http://85.112.114.11:8088/udp/238.2.61.243:1234
 #EXTINF:-1  tvg-id="ntv-hit" group-title="Наши сериалы" tvg-logo="http://epg.it999.ru/img/2041.png",НТВ ХИТ
 http://46.174.83.66/NTV_Hit/mpegts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Discovery Channel HD
-http://46.34.209.244:80/btv/SWM/discovery_hd/discovery_hd_720p_3500kbps.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Discovery Science HD
-http://45.80.44.93:25022/play/a04m/index.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Investigation Discovery
-http://45.80.44.93:25022/play/a02l/index.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",National Geographic HD
-http://87.247.44.26/btv/SWM/NatGeo_channel/NatGeo_channel_720p_3500kbps.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",National Geographic Wild HD
+#EXTINF:-1,Discovery Science HD
+#EXTGRP:Познавательные
+http://31.173.178.110:8004/play/a09r/index.m3u8
+#EXTINF:-1,Discovery Science FHD
+#EXTGRP:Познавательные
+http://5.17.88.7:52931/udp/235.10.10.140:1234
+#EXTINF:-1,Nat Geo Wild
+#EXTGRP:Познавательные
+https://okkotv-live.cdnvideo.ru/channel/NGC_Wild_HD.m3u8
+#EXTINF:-1,National Geographic Wild HD
+#EXTGRP:Познавательные
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Animal Planet FHD
 http://46.34.209.244:80/btv/SWM/animal_hd/animal_hd_1080p_5000kbps.m3u8
@@ -160,28 +162,24 @@ http://195.154.242.229/Premiere_HD/video.m3u8?token=telegram-premieregroup
 http://195.154.242.229/Premium_HD/video.m3u8?token=telegram-premieregroup
 #EXTINF:-1 ,Victory HD
 http://195.154.242.229/Victory_HD/video.m3u8?token=telegram-premieregroup
-#EXTINF:-1 ,КИНОХИТ HD
-http://31.134.132.245:8080/kinohit_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Кинопремьера HD
-http://78.58.133.179:28000/play/a004/index.m3u8
-#EXTINF:-1 ,Киномикс
-http://78.58.133.179:28000/play/a070/index.m3u8
-#EXTINF:-1 ,Кинокомедия
-http://46.174.83.66/Kinokomedia/mpegts
-#EXTINF:-1 ,Киносемья
-http://31.173.178.110:8004/play/a090/index.m3u8
-#EXTINF:-1 ,Кинопоказ
-http://31.134.132.245:8080/kinopokaz/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Мужское Кино FHD
-http://46.34.209.244:80/btv/SWM/MuzhskoyeKinoHD/MuzhskoyeKinoHD_1080p_5000kbps.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Кинопремьера HD
-http://78.58.133.179:28000/play/a004/index.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Киносвидание FHD
-http://46.34.209.244:80/btv/SWM/Kinosvidanie/Kinosvidanie_1080p_5000kbps.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Наше новое кино HD
-http://46.34.209.243/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_1080p_5000kbps.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Родное Кино
-http://46.34.209.244:80/btv/SWM/rodnoe_kino/rodnoe_kino_576p_2000kbps.m3u8
+#EXTINF:-1,Кинохит
+http://nicetv.ml/f30bmu/index.m3u8?token=QWZ0aGp8fFVITTFNelkzTWpjNE9BPT0=
+#EXTINF:-1,Киномикс
+http://nicetv.ml/fjy345/index.m3u8?token=QWZ0aGp8fFVITTFNelkzTWpjNE9BPT0=
+#EXTINF:-1,Мужское кино HD
+http://nicetv.ml/fyj455/index.m3u8?token=QWZ0aGp8fFVITTFNelkzTWpjNE9BPT0=
+#EXTINF:-1,Кинопремьера HD
+http://nicetv.ml/fgh534/index.m3u8?token=QWZ0aGp8fFVITTFNelkzTWpjNE9BPT0=
+#EXTINF:-1,Кинокомедия
+http://nicetv.ml/f54fff/index.m3u8?token=QWZ0aGp8fFVITTFNelkzTWpjNE9BPT0=
+#EXTINF:-1,Киносвидание
+http://nicetv.ml/faw634/index.m3u8?token=QWZ0aGp8fFVITTFNelkzTWpjNE9BPT0=
+#EXTINF:-1,Киносемья HD
+http://nicetv.ml/f3ht33/index.m3u8?token=QWZ0aGp8fFVITTFNelkzTWpjNE9BPT0=
+#EXTINF:-1,Наше новое кино
+http://nicetv.ml/f8gh68/index.m3u8?token=QWZ0aGp8fFVITTFNelkzTWpjNE9BPT0=
+#EXTINF:-1,Родное кино
+http://nicetv.ml/ffgr76/index.m3u8?token=QWZ0aGp8fFVITTFNelkzTWpjNE9BPT0=
 #EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Дом Кино
 http://46.174.83.66/Dom_Kino/mpegts
 #EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Победа
