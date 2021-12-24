@@ -45,31 +45,20 @@ http://5.254.76.34:17070/C441/index.m3u8?token=kdsdkwy453wrRq29IIIo
 http://ott-cdn.ucom.am/s5/index.m3u8
 #EXTINF:-1  tvg-id="PublicTVofArmenia.am" group-title="N/A" tvg-logo="N/A",Public TV of Armenia (1080p)
 http://serv24.vintera.tv:8081/test/h1_arm/index.m3u8
-
 #EXTINF:59,USA Armenia
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/15495/index.m3u8
 #EXTINF:112,Pan Armenian TV AM
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/16028/index.m3u8
-
 #EXTINF:0,LiveNews TV AM
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/16032/index.m3u8
 #EXTINF:0,FreeNews
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/15501/index.m3u8
-
 #EXTINF:0,SONGTV
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/300/index.m3u8
-#EXTINF:0,Luys TV
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/2165/index.m3u8
-#EXTINF:0,Fresh HD AM
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/15112/index.m3u8
-#EXTINF:0,Ararat AM
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/15208/index.m3u8
 #EXTINF:0,Dar 21 AM
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/15211/index.m3u8
 #EXTINF:0,Ar AM
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/15212/index.m3u8
-#EXTINF:0,Luys AM
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/15214/index.m3u8
 #EXTINF:100,Kotayk TV
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/15498/index.m3u8
 #EXTINF:100,Armount TV
@@ -78,40 +67,42 @@ http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/15502/index.m3u8
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/15504/index.m3u8
 #EXTINF:0,Artn AM
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/16029/index.m3u8
-
-
-#EXTINF:60,
+#EXTINF:-1 ,Первый HD (Russia)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/204/index.m3u8
-#EXTINF:60,
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/2409/index.m3u8
-#EXTINF:60,
+#EXTINF:-1 ,Россия HD (Russia)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/205/index.m3u8
+#EXTINF:-1 ,НТВ HD (Russia)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/213/index.m3u8
-#EXTINF:60,
+#EXTINF:-1 ,Мир (Russia)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/214/index.m3u8
+#EXTINF:-1 ,ТВЦ (Russia)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/520/index.m3u8
-#EXTINF:60,
+#EXTINF:-1 ,Пятый канал (Russia)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/112/index.m3u8
-#EXTINF:60,THT HD
+#EXTINF:-1 ,ТНТ HD (Russia)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/237/index.m3u8
-#EXTINF:60,
+#EXTINF:-1 ,СТС (Russia)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/506/index.m3u8
-#EXTINF:60,
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/128/index.m3u8
-#EXTINF:60,
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/113/index.m3u8
-#EXTINF:100,TV-3 HD OTT
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/5033/index.m3u8
-#EXTINF:100,
+#EXTINF:-1 ,Рен ТВ HD (Russia)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/2024/index.m3u8
+#EXTINF:-1 ,ОТР (Russia)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/705/index.m3u8
+#EXTINF:-1 ,Телеканал Звезда (Russia)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/544/index.m3u8
+#EXTINF:-1 ,Пятница! HD (Russia)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/5031/index.m3u8
-#EXTINF:60,
+#EXTINF:-1 ,Суббота (Russia)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/826/index.m3u8
-#EXTINF:60,
+#EXTINF:-1 ,Домашний (Russia)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/514/index.m3u8
+#EXTINF:-1 ,ТНТ4 (Russia)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/104/index.m3u8
+#EXTINF:-1 ,КВН ТВ (Russia)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/546/index.m3u8
+#EXTINF:-1 ,360° HD (Russia)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/2065/index.m3u8
+#EXTINF:-1 ,Россия-Культура (Russia)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/505/index.m3u8
-#EXTINF:100,
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/15115/index.m3u8
-#EXTINF:102,360° orig
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/9209/index.m3u8
-
-
 #EXTINF:-1,Discovery Science HD
 #EXTGRP:Познавательные
 http://31.173.178.110:8004/play/a09r/index.m3u8
@@ -138,60 +129,22 @@ http://46.34.209.244:80/btv/SWM/HistoryHD/HistoryHD_1080p_5000kbps.m3u8
 https://helga.iptv2022.com/NASA_TV_Media_eng/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Наука
 http://31.131.191.7:8000/play/a03d
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",AMEDIA Hit HD
-http://edge04.beetv.kz:80/btv/SWM/AmediaHitHD/AmediaHitHD_720p_3500kbps.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",AMEDIA Premium HD
-http://edge04.beetv.kz:80/btv/SWM/Amedia_PremiumHD/Amedia_PremiumHD_720p_3500kbps.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",FOX HD
 http://176.222.187.146:80/btv/SWM/FOX/FOX_720p_3500kbps.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",FOX Life HD
 http://176.222.164.72/btv/SWM/FoxLife/FoxLife_720p_3500kbps.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",CNN International
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",NBC News Now
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1920x1080_3660800/chunklist.m3u8
-
-
-#EXTINF:44,Discovery Channel HD CA
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/6452/index.m3u8
-#EXTINF:124,CINEMAX THRILLERMAX HD US
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/6153/index.m3u8
-#EXTINF:100,CINEMAX OUTER MAX US
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/6154/index.m3u8
-#EXTINF:100,CINEMAX MOVIEMAX US
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/6155/index.m3u8
-#EXTINF:100,CINEMAX ACTION MAX EAST US
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/6156/index.m3u8
-#EXTINF:104,NYCTV Life
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/902/index.m3u8
-#EXTINF:106,CBS New York
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/903/index.m3u8
-#EXTINF:100,NBC
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/1081/index.m3u8
-#EXTINF:93,Disney XD
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/1082/index.m3u8
-#EXTINF:109,MAVTV HD
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/1074/index.m3u8
-#EXTINF:100,ABC HD
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/1087/index.m3u8
-#EXTINF:100,Fox 5 WNYW
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/1086/index.m3u8
-#EXTINF:102,BBC America
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/1092/index.m3u8
-#EXTINF:100,USA
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/1101/index.m3u8
-
-
-#EXTINF:-1 ,Premiere HD
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/11094/index.m3u8
-#EXTINF:-1 ,Paradox HD
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/11098/index.m3u8
-#EXTINF:-1 ,Paradise HD
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/11100/index.m3u8
-#EXTINF:-1 ,Thriller HD
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/11099/index.m3u8
-#EXTINF:-1 ,Victory HD
+#EXTINF:-1 ,Premium HD (Russia-Cinema)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/11095/index.m3u8
+#EXTINF:-1 ,Victory HD (Russia-Cinema)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/11097/index.m3u8
+#EXTINF:-1 ,Paradox HD (Russia-Cinema)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/11098/index.m3u8
+#EXTINF:-1 ,Thriller HD (Russia-Cinema)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/11099/index.m3u8
+#EXTINF:-1 ,Paradise HD (Russia-Cinema)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/11100/index.m3u8
 #EXTINF:-1 ,VIP Megahit
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/201/index.m3u8
 #EXTINF:-1 ,VIP Premiere orig
@@ -222,16 +175,50 @@ http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/7248/index.m3u8
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/9127/index.m3u8
 #EXTINF:-1 ,Наше новое кино
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/517/index.m3u8
-#EXTINF:-1 ,VF Adventure
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/10000/index.m3u8
-#EXTINF:-1 ,VF Comedy
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/10003/index.m3u8
-#EXTINF:-1 ,VF Family
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/10004/index.m3u8
-#EXTINF:-1 ,VF Fantasy
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/10005/index.m3u8
-#EXTINF:-1 ,VF Mystic
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/10007/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Haykino ATV
+http://ott-cdn.ucom.am/s22/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Filmzone ATV
+http://ott-cdn.ucom.am/s48/04.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Cineman ATV
+http://ott-cdn.ucom.am/s66/04.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Kinoman ATV
+http://ott-cdn.ucom.am/s94/04.m3u8
+#EXTINF:-1 ,Премиальное FHD (Russia-Cinema)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/2410/index.m3u8
+#EXTINF:-1 ,Дом Кино Премиум HD (Russia-Cinema)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/911/index.m3u8
+#EXTINF:-1 ,Победа HD (Russia-Cinema)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/5052/index.m3u8
+#EXTINF:-1 ,VF Премьера (Russia-Cinema)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/10051/index.m3u8
+#EXTINF:-1 ,VF Боевик (Russia-Cinema)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/10087/index.m3u8
+#EXTINF:-1 ,VF Fantastic (Russia-Cinema)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/11121/index.m3u8
+#EXTINF:-1 ,VF Катастрофы (Russia-Cinema)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/10080/index.m3u8
+#EXTINF:-1 ,VF Marvel (Russia-Cinema)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/10081/index.m3u8
+#EXTINF:-1 ,VF Военные (Russia-Cinema)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/10082/index.m3u8
+#EXTINF:-1 ,VF Классика (Russia-Cinema)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/10053/index.m3u8
+#EXTINF:-1 ,VF Комедия (Russia-Cinema)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/10055/index.m3u8
+#EXTINF:-1 ,VF Наша победа (Russia-Cinema)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/10083/index.m3u8
+#EXTINF:-1 ,VF Фильмы СССР (Russia-Cinema)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/10085/index.m3u8
+#EXTINF:-1 ,LIBERTY TRILLER (Russia-Cinema)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/15089/index.m3u8
+#EXTINF:-1 ,LIBERTY MARVEL (Russia-Cinema)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/15090/index.m3u8
+#EXTINF:-1 ,LIBERTY drama (Russia-Cinema)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/15095/index.m3u8
+#EXTINF:-1 ,LIBERTY boevik (Russia-Cinema)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/15096/index.m3u8
+#EXTINF:-1 ,LIBERTY KINOMIKS (Russia-Cinema)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/15110/index.m3u8
 #EXTINF:-1 ,CineMan Top
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/11005/index.m3u8
 #EXTINF:-1 ,CineMan Action
@@ -240,24 +227,24 @@ http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/11006/index.m3u8
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/11007/index.m3u8
 #EXTINF:-1 ,CineMan Marvel
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/11009/index.m3u8
-#EXTINF:-1 ,Dosug Comedy HD
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/14209/index.m3u8
-#EXTINF:-1 ,Dosug Fantastic HD
+#EXTINF:-1 ,Dosug Fantastic HD (Russia-Cinema)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/14210/index.m3u8
-#EXTINF:-1 ,Dosug History HD
+#EXTINF:-1 ,Dosug History HD (Russia-Cinema)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/14211/index.m3u8
-#EXTINF:-1 ,Dosug Hit HD
+#EXTINF:-1 ,Dosug Comedy HD (Russia-Cinema)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/14209/index.m3u8
+#EXTINF:-1 ,Dosug Hit HD (Russia-Cinema)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/14212/index.m3u8
-#EXTINF:-1 ,Dosug Kids HD
+#EXTINF:-1 ,Dosug Kids HD (Russia-Cinema)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/14214/index.m3u8
-#EXTINF:-1 ,Dosug Marvel HD
+#EXTINF:-1 ,Dosug Marvel HD (Russia-Cinema)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/14215/index.m3u8
-#EXTINF:-1 ,Dosug New HD
+#EXTINF:-1 ,Dosug New HD (Russia-Cinema)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/14216/index.m3u8
-#EXTINF:-1 ,Dosug Russian HD
+#EXTINF:-1 ,Dosug Russian HD (Russia-Cinema)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/14217/index.m3u8
-#EXTINF:-1 ,POBEDA TV
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/5052/index.m3u8
+#EXTINF:-1 ,Dosug СССР HD (Russia-Cinema)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/14218/index.m3u8
 #EXTINF:-1 ,Fox HD
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/219/index.m3u8
 #EXTINF:-1 ,Hollywood HD
@@ -274,209 +261,159 @@ http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/9130/index.m3u8
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/4000/index.m3u8
 #EXTINF:-1 ,4470
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/2410/index.m3u8
-
-
 #EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Radio Van 103.0 FM Yerevan
 http://stream.radiovan.fm/stream/index.m3u8
-#EXTINF:0,MTV 
+#EXTINF:-1 ,MTV Россия HD (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/2130/index.m3u8
-#EXTINF:0,MTV Live HD
+#EXTINF:-1 ,MTV Live HD (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/221/index.m3u8
-#EXTINF:0,BRIDGE HD
+#EXTINF:-1 ,BRIDGE HD (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/236/index.m3u8
-#EXTINF:0,BRIDGE TV HITS
+#EXTINF:-1 ,BRIDGE TV HITS (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/711/index.m3u8
-#EXTINF:0,Europa Plus TV
+#EXTINF:-1 ,Europa Plus TV (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/115/index.m3u8
-#EXTINF:0,
+#EXTINF:-1 ,МУЗ-ТВ (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/116/index.m3u8
-#EXTINF:0,MTV Hits
+#EXTINF:-1 ,MTV (Music)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/142/index.m3u8
+#EXTINF:-1 ,MTV Hits (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/153/index.m3u8
-#EXTINF:0,Music
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/155/index.m3u8
-#EXTINF:0,Mezzo Live HD
+#EXTINF:-1 ,Mezzo Live HD (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/208/index.m3u8
-#EXTINF:0,Mezzo
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/707/index.m3u8
-#EXTINF:0,Club MTV
+#EXTINF:-1 ,Club MTV (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/558/index.m3u8
-#EXTINF:0,
+#EXTINF:-1 ,Mezzo (Music)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/707/index.m3u8
+#EXTINF:-1 ,ТНТ MUSIC (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/710/index.m3u8
-#EXTINF:0,MTV 80s
+#EXTINF:-1 ,MTV 80s (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/724/index.m3u8
-#EXTINF:0,MCM Top Russia
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/836/index.m3u8
-#EXTINF:60,
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/2043/index.m3u8
-#EXTINF:0,Russian Music Box
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/2048/index.m3u8
-#EXTINF:0,
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/2137/index.m3u8
-#EXTINF:0,SONG TV HD RU
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/6394/index.m3u8
-#EXTINF:0,1HD orig
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/9001/index.m3u8
-#EXTINF:0,C-Music HD orig
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/9003/index.m3u8
-#EXTINF:0,MTV Live HD orig
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/9009/index.m3u8
-#EXTINF:0,Bridge TV HD orig
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/9012/index.m3u8
-#EXTINF:0,Mezzo Live HD orig
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/9014/index.m3u8
-#EXTINF:0,iConcerts HD orig
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/9056/index.m3u8
-#EXTINF:0,BRIDGE TV 
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/9176/index.m3u8
-#EXTINF:0,
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/9257/index.m3u8
-#EXTINF:0,MTV Russia orig
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/9258/index.m3u8
-#EXTINF:0,NEW MUSIC
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/10062/index.m3u8
-#EXTINF:0,RETRO DANCE 90S
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/10064/index.m3u8
-#EXTINF:0,Music Top HD
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/10072/index.m3u8
-#EXTINF:0,1 Music
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/10076/index.m3u8
-#EXTINF:0,Z! Music
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/14138/index.m3u8
-#EXTINF:0,
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/14142/index.m3u8
-#EXTINF:0,Music Gold
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/14149/index.m3u8
-#EXTINF:0,
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/14152/index.m3u8
-#EXTINF:0,Europa Plus TV HD
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/14159/index.m3u8
-#EXTINF:0,HITV FHD
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/14165/index.m3u8
-#EXTINF:0,
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/14166/index.m3u8
-#EXTINF:0,SKY HIGH CONCERT HD
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/14241/index.m3u8
-#EXTINF:0,SKY HIGH DANCE HD
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/14250/index.m3u8
-#EXTINF:0,SKY HIGH CLASSIC HD
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/15104/index.m3u8
-#EXTINF:0,Stingray Hit List HD
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/15003/index.m3u8
-#EXTINF:0,Stingray Greatest Hits HD
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/15007/index.m3u8
-#EXTINF:0,Stingray Classica HD
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/15009/index.m3u8
-#EXTINF:103,Stingray Jazz HD
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/15010/index.m3u8
-#EXTINF:0,MTV Biggest Pop HD
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/15018/index.m3u8
-#EXTINF:0,MTV Block Party HD
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/15019/index.m3u8
-#EXTINF:0,MTV 90s
+#EXTINF:-1 ,MTV 90s (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/1038/index.m3u8
-#EXTINF:0,Eurodance 90
+#EXTINF:-1 ,Eurodance 90 (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/14148/index.m3u8
-#EXTINF:0,Stingray Remember The 80S HD
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/15015/index.m3u8
-#EXTINF:0,Stingray Flashback 70S HD
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/15013/index.m3u8
-#EXTINF:60,
+#EXTINF:-1 ,MCM Top Russia (Music)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/836/index.m3u8
+#EXTINF:-1 ,RU.TV (Music)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/838/index.m3u8
+#EXTINF:-1 ,Шансон ТВ (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/859/index.m3u8
-#EXTINF:104,VF 
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/15519/index.m3u8
-#EXTINF:109,
+#EXTINF:-1 ,Радио Шансон тв HD (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/16036/index.m3u8
-#EXTINF:101,
+#EXTINF:-1 ,VF Шансон (Music)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/15519/index.m3u8
+#EXTINF:-1 ,Ля-минор ТВ (Music)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/2043/index.m3u8
+#EXTINF:-1 ,Русская попса 80х-90х (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/14155/index.m3u8
-#EXTINF:100,RETRO TV
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/14169/index.m3u8
-#EXTINF:0,
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/9174/index.m3u8
-#EXTINF:0,Dance Hits of 90s
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/14154/index.m3u8
-#EXTINF:0,VF Music
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/16140/index.m3u8
-#EXTINF:0,Romantic & Ballads
+#EXTINF:-1 ,Russian Dance Hits of 90s (Music)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/14156/index.m3u8
+#EXTINF:-1 ,Russian Music Box (Music)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/2048/index.m3u8
+#EXTINF:-1 ,SONG TV HD RU (Music)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/6394/index.m3u8
+#EXTINF:-1 ,ТНТ MUSIC orig (Music)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/9178/index.m3u8
+#EXTINF:-1 ,NEW MUSIC (Music)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/10062/index.m3u8
+#EXTINF:-1 ,RETRO DANCE 90S (Music)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/10064/index.m3u8
+#EXTINF:-1 ,Первый музыкальный FULL HD (Music)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/14142/index.m3u8
+#EXTINF:-1 ,Fresh HD (Music)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/14146/index.m3u8
+#EXTINF:-1 ,Страна FM HD (Music)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/14152/index.m3u8
+#EXTINF:-1 ,Europa Plus TV HD (Music)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/14159/index.m3u8
+#EXTINF:-1 ,Новое радио FHD (Music)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/14162/index.m3u8
+#EXTINF:-1 ,ТНТ Music FHD (Music)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/14166/index.m3u8
+#EXTINF:-1 ,Stingray Pop Adult HD (Music)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/15002/index.m3u8
+#EXTINF:-1 ,Stingray Hit List HD (Music)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/15003/index.m3u8
+#EXTINF:-1 ,Stingray Hip Hop/R&B HD (Music)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/15005/index.m3u8
+#EXTINF:-1 ,Stingray Soul Storm STORM HD (Music)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/15006/index.m3u8
+#EXTINF:-1 ,Stingray Greatest Hits HD (Music)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/15007/index.m3u8
+#EXTINF:-1 ,Stingray Exitos Del Momento HD (Music)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/15008/index.m3u8
+#EXTINF:-1 ,Stingray Classica HD (Music)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/15009/index.m3u8
+#EXTINF:-1 ,Stingray Jazz HD (Music)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/15010/index.m3u8
+#EXTINF:-1 ,Stingray Classic Rock HD (Music)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/15012/index.m3u8
+#EXTINF:-1 ,VF Music (Music)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/15516/index.m3u8
+#EXTINF:-1 ,VF Rock (Music)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/15517/index.m3u8
+#EXTINF:-1 ,Romantic & Ballads (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/16014/index.m3u8
-#EXTINF:0,Kiss Kiss Italia HD
+#EXTINF:-1 ,Kiss Kiss Tv HD (Music)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/16072/index.m3u8
+#EXTINF:-1 ,Kiss Kiss Italia HD (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/16073/index.m3u8
-#EXTINF:107,Kiss Kiss Napoli HD
+#EXTINF:-1 ,Kiss Kiss Napoli HD (Music)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/16074/index.m3u8
-#EXTINF:60,
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/13030/index.m3u8
-
-
-#EXTINF:0,
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/10058/index.m3u8
-#EXTINF:0,
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/5050/index.m3u8
-#EXTINF:60,
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/220/index.m3u8
-#EXTINF:0,
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/2413/index.m3u8
-#EXTINF:60,
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/2407/index.m3u8
-#EXTINF:60,
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/2420/index.m3u8
-#EXTINF:60,
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/206/index.m3u8
-#EXTINF:0,
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/5073/index.m3u8
-#EXTINF:0,
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/5074/index.m3u8
-#EXTINF:0,
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/5083/index.m3u8
-#EXTINF:60,
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/225/index.m3u8
-#EXTINF:60,
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/207/index.m3u8
-#EXTINF:60,
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/107/index.m3u8
-#EXTINF:60,Match Planeta
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/123/index.m3u8
-#EXTINF:0,
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/150/index.m3u8
-#EXTINF:0,
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/10014/index.m3u8
-#EXTINF:0,
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/9246/index.m3u8
-#EXTINF:0,Eurosport 4K
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/4004/index.m3u8
-#EXTINF:0,Eurosport 1 HD
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/228/index.m3u8
-#EXTINF:60,
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/234/index.m3u8
-#EXTINF:0,Setanta Sports HD
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/271/index.m3u8
-#EXTINF:0,Viasat Sport HD
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/2007/index.m3u8
-#EXTINF:100,Super Tennis HD
+#EXTINF:-1,FTV UHD (Russia-Mixed)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/4005/index.m3u8
+#EXTINF:-1,Fashion TV HD (Russia-Mixed)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/2045/index.m3u8
+#EXTINF:-1 ,Точка отрыва HD (Sport)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/2128/index.m3u8
+#EXTINF:-1 ,Super Tennis HD (Sport)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/6079/index.m3u8
-#EXTINF:0,Viasat Fotboll HD SK orig
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/5078/index.m3u8
-#EXTINF:0,Xsport HD orig
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/5077/index.m3u8
-#EXTINF:0,FAST&FUN BOX HD
+#EXTINF:-1 ,МАТЧ ПРЕМЬЕР HD (Sport)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/220/index.m3u8
+#EXTINF:-1 ,Матч! HD (Sport)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/212/index.m3u8
+#EXTINF:-1 ,Матч! Футбол 1 HD (Sport)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/222/index.m3u8
+#EXTINF:-1 ,Матч! Футбол 2 HD (Sport)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/211/index.m3u8
+#EXTINF:-1 ,Матч! Футбол 3 FHD (Sport)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/2408/index.m3u8
+#EXTINF:-1 ,Матч! Игра HD (Sport)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/225/index.m3u8
+#EXTINF:-1 ,Матч! Арена HD (Sport)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/207/index.m3u8
+#EXTINF:-1 ,Матч! Планета (Sport)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/123/index.m3u8
+#EXTINF:-1 ,Матч! Боец (Sport)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/150/index.m3u8
+#EXTINF:-1 ,Eurosport 1 HD (Sport)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/228/index.m3u8
+#EXTINF:-1 ,Eurosport 2 North-East HD (Sport)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/234/index.m3u8
+#EXTINF:-1 ,Viasat Sport HD (Sport)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/2007/index.m3u8
+#EXTINF:-1 ,UFC HD orig (Sport)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/5067/index.m3u8
+#EXTINF:-1 ,Russian Extreme HD (Sport)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/2077/index.m3u8
+#EXTINF:-1 ,FAST&FUN BOX HD (Sport)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/1018/index.m3u8
-#EXTINF:0,
+#EXTINF:-1 ,Моторспорт ТВ HD (Sport)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/2146/index.m3u8
-#EXTINF:0,
+#EXTINF:-1 ,Футбол 1 HD orig (Sport)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/5073/index.m3u8
+#EXTINF:-1 ,Футбол 2 HD orig (Sport)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/5074/index.m3u8
+#EXTINF:-1 ,Футбол 3 HD orig (Sport)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/5083/index.m3u8
+#EXTINF:-1 ,Viasat Sport (Sport)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/160/index.m3u8
+#EXTINF:-1 ,Fuel TV HD (Sport)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/2396/index.m3u8
+#EXTINF:-1 ,Бокс ТВ (Sport)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/870/index.m3u8
-#EXTINF:0,
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/10033/index.m3u8
-#EXTINF:0,Sporthttp:
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/10057/index.m3u8
-#EXTINF:100,3922
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/15226/index.m3u8
-#EXTINF:0,Insport HD
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/16071/index.m3u8
-#EXTINF:0,
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/6369/index.m3u8
-#EXTINF:0,SKY SPORTS PREMIER LEAGUE UK
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/7335/index.m3u8
-#EXTINF:0,SKY SPORTS FOOTBALL UK
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/7336/index.m3u8
-#EXTINF:0,SKY SPORTS MAIN EVENT UK
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/7337/index.m3u8
-#EXTINF:0,SKY SPORTS ARENA UK
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/7338/index.m3u8
+#EXTINF:-1 ,Телеканал Футбол (Sport)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/5050/index.m3u8
+#EXTINF:-1 ,Конный мир HD orig (Sport)
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/9055/index.m3u8
